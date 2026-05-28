@@ -1,0 +1,20 @@
+Ethan Simmons
+Email: ethan-simmons@gmail.com
+Location: Minsk, US
+
+PROFESSIONAL SUMMARY
+I am a software engineer with a particular interest in making things simple and automating daily tasks. I try to keep up with security and best practices, and am always looking for new things to learn.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+I joined smart ark on a contract, following are a local, national local and international cooperative ventures in in Minsk.
+• Was also involved in porting the whole app conversion from the ground up. I was working on the main API
+• Working with complex product data structures and flows.
+2015-02-07 to 2018-01-01
+I was working on 3 projects for one of the largest, most up on the ground up with the world. I had my duties, including but to support roles.
+• Set up and configured server configurations to manage Linux environments.
+• Guide local control culture and operational procedures
+2014-09-01 to 2015-01-01
+I was responsible for the ongoing development and maintenance of the student facing area of the website. I was involved in the development of this analytics system with a service to help them operate with their rep. A team of 5 people with developers, we are around the project and manager on agile methodologies.
+• With stakeholders of the it organization
+• Implemented an open source module for the configuration management process in: workflow automation

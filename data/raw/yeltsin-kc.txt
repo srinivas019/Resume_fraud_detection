@@ -1,0 +1,20 @@
+Yeltsin Kc
+Email: yeltsin-kc@gmail.com
+Location: Madrid, US
+
+PROFESSIONAL SUMMARY
+I am a full stack developer who can build services. I am a very product focused developer who prioritizes user feedback first. Even though I have been working at the same company, but I have various experience from lots of projects. I am generally very flexible when investigating new roles.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+Is the company behind the intellego platform. intellego is a cloud computing, data that allow publishing partners in social media marketing. I have been fortunate to be to work with the business to develop internal relationships with our clients and community.
+• / With graphic designer interfaces to users (..)
+• Live test automation.
+2015-02-07 to 2018-01-01
+gmbh is a company whose focus is on delivering top notch web and mobile applications to our clients
+• Implementation of internal rest API written in java
+• IOS, android front-end and windows phone system,
+2014-09-01 to 2015-01-01
+I started working on the web application for clients in PHP, Java.
+• Developed web front end application with jquery
+• Started the company to create a list of the solution

@@ -1,0 +1,20 @@
+John Meyers
+Email: john-meyers@gmail.com
+Location: Stockholm, US
+
+PROFESSIONAL SUMMARY
+I a full stack developer who loves writing graceful code and designing compelling user experiences. I spent time exploring paths to help the most influencing actors of the industry solving their pains. I am technology agnostic to always be on the edge of our changing world.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+pharma is a company whose focus is on delivering top notch web and mobile applications to our clients.
+• Rowed principles () web application, website development ()
+• * regression analysis testing
+2015-02-07 to 2018-01-01
+I worked on the information security and risk management team doing all things security. Eventually I took over the development of an effort to provide the required assistance for both a new project based on customer management application.
+• Extended query functionality using Magento
+• Developed system to process, by category video metadata, identified printers and easily via a command line tool
+2014-09-01 to 2015-01-01
+Is a company that provides comprehensive solution and services for businesses in enterprise, enterprise mobility management, healthcare, enterprise and digital marketing strategies to its access in person and nationally information.
+• Establish the front-end work using the application.
+• Ensured compatibility across browsers and devices.

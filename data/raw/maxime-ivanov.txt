@@ -1,0 +1,20 @@
+Maxime Ivanov
+Email: maxime-ivanov@gmail.com
+Location: Portland Oregon, US
+
+PROFESSIONAL SUMMARY
+I am a full stack developer who enjoys working in an agile environment with a collaborative team. I am passionate about creating modular, scalable, smart looking web apps. I enjoy balancing the need for test driven and benchmark driven development, modern creative design, and task completion efficiency and quality. i specialize in. and node. js full stack development.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+I was responsible for the development and management of automated online data whose data is used to work on all call centers. New features include monitoring, the of various jobs, determine situational status, monthly security etc.
+• Lead the mobile team as a SAAS member of the development team
+• Introduced, influxdb, and microservices for distributed it.
+2015-02-07 to 2018-01-01
+bigo digital is a company whose focus is on delivering top notch web and mobile applications to our clients
+• Created a module for private data screening (corporate compliance) while screens transactions and provided by a contracted media automation to a support (postgresql / full integration) suite
+• Implemented unit tests in.
+2014-09-01 to 2015-01-01
+Is a company that produce and deliver multimedia and digital content marketing solutions to clients needing web, creating & business software.
+• Upgraded a legacy PHP Zend framework application integrated with laravel and angularjs 1. 8 and jquery
+• Managed crews of up to google 100 customer advertising network of connections

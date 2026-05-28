@@ -1,0 +1,20 @@
+David Bernhard
+Email: david-bernhard@gmail.com
+Location: Clinton, US
+
+PROFESSIONAL SUMMARY
+I am a software developer with experience developing and testing applications on the node. J's, j2ee and c + +. I love coding in dynamic programming languages like javascript. I am a fan of the functional programming tools present in the language which result in elegant code. I have experience developing backend systems using expressjs and unit testing them using frameworks like mocha an. I am also familiar with j2ee frameworks like spring.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+institute of telecommunications is a company whose focus is on delivering top notch web and mobile applications to our clients.
+• Automation of the system (rational clearcase)
+• Addressed security issues
+2015-02-07 to 2018-01-01
+Is a technology platform for online sports information. It has created, efficient, maintenance, issue and related tooling and create user interface experiences.
+• Teach customers how to leverage fundamental technologies
+• Internal communication skills: developed for the it application to track and lead the inventory management modules in order.
+2014-09-01 to 2015-01-01
+Is a company that provides a SaaS location intelligence platform help sales process to individuals, business and businesses expand their marketing and platform.
+• Writing maintainable code with extensive documentation
+• Wrote standardized docker layers.

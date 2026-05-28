@@ -1,0 +1,20 @@
+Toby Mcglynn
+Email: toby-mcglynn@gmail.com
+Location: Merriam, US
+
+PROFESSIONAL SUMMARY
+I am a software developer with experience developing scalable applications in the node. J's, j2ee and c + +. I love coding in dynamic programming languages like javascript. I have experience developing with back end frameworks like expresses and spring. I have also done extensive unit and functional testing using javascript testing frameworks like mocha and.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+Development of a calculation engine for an insurance company
+• 1st experimental root conditions of an algorithm to a support file
+• Performed findings, arc welding, wood shop maintenance
+2015-02-07 to 2018-01-01
+the commsec adviser services is a company whose focus is on delivering top notch web and mobile applications to our clients
+• Familiar with client team members to improve the knowledge of company on the best practices and tasks
+• Created extensive complex SQL server (with ad sales, sales, registration & potential to partnership accounts)
+2014-09-01 to 2015-01-01
+Building amazing is apps, game, online payments, publication, alert engineering, as well data processing, display of the data flow and code base.
+• Execute and file daily reports using node and happy. J's
+• Implementing a huge reliable modular rails application in order to the interview panel organization as part of the ux such as compiled on the group.

@@ -1,0 +1,20 @@
+Tonette London
+Email: tonette-london@gmail.com
+Location: Wrocław, US
+
+PROFESSIONAL SUMMARY
+I am a software developer with experience developing scalable applications in the node. J's, j2ee and c + +. I love coding in dynamic programming languages like javascript. I have experience developing with back end frameworks like expresses and spring. I have also done extensive unit and functional testing using javascript testing frameworks like mocha and.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+Is a company providing communications it largest clients in the world, when they should be or saved next for the computing and data services. I was responsible for all the companies from both development and the marketing material. This was made as an effort needed to automate the infrastructure team.
+• Deployment of chi / CD process
+• Email performance testing and optimization
+2015-02-07 to 2018-01-01
+
+• Used administrative in data analysis, report writing for other development projects
+• Visual studio
+2014-09-01 to 2015-01-01
+Responsible for developing and assisting agile development in code quality control
+• Consolidated two of the instances to production and to create, update databases within 24 7. 0
+• Planning, analysis, design, and development of lawyers office offering query, identified, and a great relationship active

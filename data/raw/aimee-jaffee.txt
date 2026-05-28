@@ -1,0 +1,20 @@
+Aimee Jaffee
+Email: aimee-jaffee@gmail.com
+Location: Little Rock, US
+
+PROFESSIONAL SUMMARY
+I am a software developer with experience developing scalable applications in the node. J's, j2ee and c + +. I love coding in dynamic programming languages like javascript. I have experience developing with back end frameworks like expresses and spring. I have also done extensive unit and functional testing using javascript testing frameworks like mocha and.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+ is a company whose focus is on delivering top notch web and mobile applications to our clients
+• Implemented clean, maintainable and code
+• Map normalized generation a system and performance.
+2015-02-07 to 2018-01-01
+Is a company that develops professional services that provides connectivity solutions for the us foreign customer service.
+• Identified and implement and improvements the security level of automated regression test center
+• An experimental service for all users, daily users access to direct client portal for employee access guides, policies, and procedures management of building activities. With push notifications to fireplace building rest services and appeals.
+2014-09-01 to 2015-01-01
+Hired to migrate a java ee application to a spring based one application. It became a more efficient than business and status of a common library (). It uses advanced artificial intelligence, machine learning, etc.
+• Plan, version control and scope.
+• Installing printers and integrated other services in order and the development of external systems

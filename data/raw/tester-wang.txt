@@ -1,0 +1,20 @@
+Tester Wang
+Email: tester-wang@gmail.com
+Location: Durban, US
+
+PROFESSIONAL SUMMARY
+I am a software developer with experience developing scalable applications in the node. J's, j2ee and c + +. I love coding in dynamic programming languages like javascript. I have experience developing with back end frameworks like expresses and spring. I have also done extensive unit and functional testing using javascript testing frameworks like mocha and.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+We are a teaching hospital with a European dimension globally recognized. Our hospitals attended each year, 8 million sick people: consultation in emergency during scheduled or home. We provide a public health service for all its operations.
+• Quality (code)
+• Acted as main programming and client knowledge
+2015-02-07 to 2018-01-01
+rosslyn analytics is a company whose focus is on delivering top notch web and mobile applications to our clients
+• Designed and architected internal flutter language in the business
+• .
+2014-09-01 to 2015-01-01
+Is a company that offers comprehensive and advanced services in the payment card industry.
+• Parallel, processing case
+• Services on platform implementation a distributed team in three backend / application tools (. net, of the videos)

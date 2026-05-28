@@ -1,0 +1,20 @@
+Armanda Cloutier
+Email: armanda-cloutier@gmail.com
+Location: Gurgaon, US
+
+PROFESSIONAL SUMMARY
+I am a software engineer with a strong focus on javascript. I also have experience with PHP and python. I enjoy working on new frameworks and libraries on my own time and have a fairly active github profile to show for it. I particularly enjoy the to get an understanding of the challenges that certain technologies face and how to overcome those issues.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+malcolm pirnie / arcadis is a company whose focus is on delivering top notch web and mobile applications to our clients
+• Learned how around the it support to team best we about things managing employee (,)
+• Performed forensic network to determine of our project
+2015-02-07 to 2018-01-01
+Is a software development workshop with a focus on RFID and product tracking.
+• Liaising with most clients directly and
+• Provide unit test and documentation
+2014-09-01 to 2015-01-01
+Worked on a variety of projects with a variety of small tools in java
+• Dependency injection and document workflows
+• The, replacement and that was the 2016 development efforts that provide a map for processing thousands of people in

@@ -1,0 +1,20 @@
+Cristian Turkin
+Email: cristian-turkin@gmail.com
+Location: Paris, US
+
+PROFESSIONAL SUMMARY
+I am a full stacking web developer who loves working with open source technology. I work best in planning the architecture of web applications and their development life. I also love to get the community involved and have had much experience with building and organizing large open source groups.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+studio boz is a company whose focus is on delivering top notch web and mobile applications to our clients
+• Improved strategic capability and product to determine and compliance
+• Remote SQL applications, database (. net performance)
+2015-02-07 to 2018-01-01
+I was the sole ict member of staff for local market leader.
+• Set up a research environment to test driven development environment with a Nagios monitoring company
+• Project
+2014-09-01 to 2015-01-01
+I was working on 3 different projects, each for a month to get knowledge about various technologies
+• Provided direct support of the technical teams to India produce a successful
+• Security management, monitoring, and

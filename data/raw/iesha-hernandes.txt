@@ -1,0 +1,20 @@
+Iesha Hernandes
+Email: iesha-hernandes@gmail.com
+Location: Visoko, US
+
+PROFESSIONAL SUMMARY
+I am a software developer with experience developing scalable applications in the node. J's, j2ee and c + +. I love coding in dynamic programming languages like javascript. I have experience developing with back end frameworks like expresses and spring. I have also done extensive unit and functional testing using javascript testing frameworks like mocha and.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+• Developed web sites using hammer kit cms for clients
+• Working with
+• Performed the batch processing and of team building scripts.
+2015-02-07 to 2018-01-01
+The company inter services for. Developed a website with angularjs and node. J's and the tutorials
+• Implemented Microsoft office excel to handle the network for administration of the servers (mostly inventory integration).
+• Maintain old code
+2014-09-01 to 2015-01-01
+I was responsible for the development and management of automated online data whose data is used to work in three a call center efforts.
+• Led the development of blizzard complaints processor and systems
+• Maintained and deploy web services with open source software at a remote data center architecture

@@ -1,0 +1,20 @@
+Julianna Yokum
+Email: julianna-yokum@gmail.com
+Location: Beaverton, US
+
+PROFESSIONAL SUMMARY
+
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+Provided consultation to companies with a range of technological requirements
+• Worked on several & project games built on big data.
+• Development of offers aggregator with play framework,,,
+2015-02-07 to 2018-01-01
+Is a major company designing and analyzing public transit networks in
+• Designed system architecture for integrating various project data at the time.
+• Define hardware and software systems that run teams.
+2014-09-01 to 2015-01-01
+A service that provides real time charts and alerts at both home and small local businesses
+• Python the entire stack (Wordpress, read and I.)
+• Wrote maintainable and performant javascript applications on Heroku with Drupal.

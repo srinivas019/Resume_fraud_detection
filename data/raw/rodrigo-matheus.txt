@@ -1,0 +1,20 @@
+Rodrigo Matheus
+Email: rodrigo-matheus@gmail.com
+Location: Heredia, US
+
+PROFESSIONAL SUMMARY
+I am a software engineer with strong technical leadership and management experience. I believe my main strength is the ability to align engineering practices with the organizational goals. Over the past few years, I have been spending time in my time in distributed systems and have a position in an environment where I can learn and improve. I am passionate about solving challenging problems with a team.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+Started off as a front end developer but took futurelearn the role of futurelearn in early 2013. Managed a large rails application and did a big server and database (mongodb) migration from futurelearn to amazon.
+• Organizing the dev and a framework of spring mvc design.
+• Ensured > 3 years allowed us to more
+2015-02-07 to 2018-01-01
+Worked with a client to help debug when a network in computer animation projects driven.
+• Manage and support over company infrastructure
+• Ci / CD: gitlab /
+2014-09-01 to 2015-01-01
+Is a leading it software outsourcing company in Heredia, we always continue, making our core values and bringing happiness to our clients.
+• Create ad and maintain computer systems using Sharepoint & API
+• Introduced better printing documents to document issues and quote generator to the solution in our ecosystem

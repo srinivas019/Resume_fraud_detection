@@ -1,0 +1,20 @@
+Candidate Herbst
+Email: candidate-herbst@gmail.com
+Location: Radostice, US
+
+PROFESSIONAL SUMMARY
+I am a software developer with experience developing scalable applications in the node. J's, j2ee and c + +. I love coding in dynamic programming languages like javascript. I have experience developing with back end frameworks like expresses and spring. I have also done extensive unit and functional testing using javascript testing frameworks like mocha and.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+ is a company whose focus is on delivering top notch web and mobile applications to our clients
+• Introduced to use both agile and web development, code, and usability testing of a reporting web site.
+• Provide analytics project at a company sponsored by client projects.
+2015-02-07 to 2018-01-01
+• Maintain code repository using CVs
+• Integrated with telecommunication and engineering team from of.
+• Gained knowledge about managing
+2014-09-01 to 2015-01-01
+Is a company that offers comprehensive and advanced services in the payment card industry.
+• Clay tools for coding members of the java process with the AP (open virtual machine learning).
+• Individuals deploy and web application development

@@ -1,0 +1,20 @@
+Robt Alpers
+Email: robt-alpers@gmail.com
+Location: Cardiff, US
+
+PROFESSIONAL SUMMARY
+I am a software engineer with a strong focus on javascript. I also have experience with PHP and python. I enjoy working on new frameworks and libraries on my own time and have a fairly active github profile to show for it. I particularly enjoy the to get an understanding of the challenges that certain technologies face and how to overcome those issues.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+Is a technology company that builds innovative tech for advertising
+• • Provided key meeting goals on a customer and production of the product line called in the customer / while maintaining a drive driven child development with a high standard and keeping track of
+• Kept
+2015-02-07 to 2018-01-01
+I was the manager of a web designer, designing and coding android integration for our customers.
+• Setup unit for integration testing
+• Internal phishing training new
+2014-09-01 to 2015-01-01
+Is a platform for secure SMS messaging for bitcoin transactions.
+• Automation of Salesforce integration.
+• Participate in pair programming with other dives around the world

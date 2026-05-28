@@ -1,0 +1,20 @@
+Madonna Scheurer
+Email: madonna-scheurer@gmail.com
+Location: Ulm, US
+
+PROFESSIONAL SUMMARY
+I am a full stack developer who can build services. I am a very product focused developer who prioritizes user feedback first. Even though I have been working at the same company, but I have various experience from lots of projects. I am generally very flexible when investigating new roles.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+Is a platform that allows citizens to hold government agency directly and publicly accountable for their actions.
+• Meeting weekly contact desk support regarding its infrastructure in workflow, applying core and develops skills to automate many roles of processes
+• Web development and optimization
+2015-02-07 to 2018-01-01
+Is a company that provides a SaaS location intelligence platform help sales process to individuals business and businesses.
+• Coordinated with students and performing evaluations of the applications
+• Launched need for speed edge.
+2014-09-01 to 2015-01-01
+I was hired to help refactor an existing application level 1. helper developed by the following international community.
+• Server installation
+• Design / deploy and microservices based via amazon web services.

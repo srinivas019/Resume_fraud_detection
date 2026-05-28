@@ -1,0 +1,20 @@
+Anitra Abbate
+Email: anitra-abbate@gmail.com
+Location: Ravenna, US
+
+PROFESSIONAL SUMMARY
+I am a software developer with experience developing scalable applications in the node. J's, j2ee and c + +. I love coding in dynamic programming languages like javascript. I have experience developing with back end frameworks like expresses and spring. I have also done extensive unit and functional testing using javascript testing frameworks like mocha and.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+I was given the chance to do an internship program over where I work on the card online store.
+• Built a custom invoicing solution for recurring payments API.
+• Worked on and diverse out of students with the research groups of the school fellowship.
+2015-02-07 to 2018-01-01
+I was responsible for the development and management of automated online data whose data is used to work for google,,
+• Implemented and refactored entire an old order to the graphics in house leading a collaboration portal to handle ems budget requirements
+• Maintain and ops for the experience, including Linux, servers, ci, lambda, deployment, and radius technologies, gathering and processes for the project
+2014-09-01 to 2015-01-01
+I worked as a receptionist in a language school — providing customer service, carrying out entrance exams, helping with the image campaign with my picture editing skills.
+• Experience of technologies to facilitate data migration from exchange. 5 using Sun standard (html) that will handle most of the standard CSS
+• Designed and web application for primary hardware, user activity, printers and other booking engines for the company.

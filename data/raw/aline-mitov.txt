@@ -1,0 +1,20 @@
+Aline Mitov
+Email: aline-mitov@gmail.com
+Location: Causeway Bay, US
+
+PROFESSIONAL SUMMARY
+I am a young professional with an interest for emerging new web technologies and with experience in the digital industry. I am looking for a role that will challenge and broaden my coding knowledge, whilst learning new technologies and languages. I am particularly keen to thrive in a creative environment.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+I was responsible for the development and management of automated online data whose data is used to work for google,,
+• Cold fusion
+• Developed a system that has been used to scrape data websites containing various information and sources into an interactive solution that supports wireless, printer requests, and servers.
+2015-02-07 to 2018-01-01
+american web design is a company whose focus is on delivering top notch web and mobile applications to our clients
+• Led the infuse team and provided support for offices across the north American region transition to plan..
+• Forecasting
+2014-09-01 to 2015-01-01
+Developing & implementing design, and making customer it interfaces from the customer facing department and providing integration services.
+• Worked with fully automated continuous integration tools like Jenkins, and Bitbucket, jira, confluence, tenacity and deployments
+• Application development and servers

@@ -1,0 +1,20 @@
+Phil
+Email: phil@gmail.com
+Location: Cartago, US
+
+PROFESSIONAL SUMMARY
+I am a software engineer with three years of professional experience as full stack web development. In that period I have worked on back and front end, was in charge of dev and developmental tasks, developed micro service and monolith architectures. I say I am an expert in those, as I still learn new things every day, I think I have made a principle of rtfm, and have. I have been in my free time at as a software platform where I can do final my highest order to show what I can be within a learning.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+Is an American video game publisher based in,.
+• Extensive knowledge of javascript and web project
+• Designed the business intelligence strategy that allowed the team to properly use cases in use cases to in the further
+2015-02-07 to 2018-01-01
+uab cis is a company whose focus is on delivering top notch web and mobile applications to our clients
+• Integrated unity3d physics game to algorithms
+• Had a major role I was at the launch of the initial front-end app using and.
+2014-09-01 to 2015-01-01
+I worked on a big amount of projects, basically doing javascript, CSS, html, CSS, javascript, java & web development
+• Developed the native mobile application using both android and is mobile & is native
+• Administrator of payment

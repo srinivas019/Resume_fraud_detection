@@ -1,0 +1,20 @@
+Liliana Schanz
+Email: liliana-schanz@gmail.com
+Location: Gurgaon, US
+
+PROFESSIONAL SUMMARY
+I am a software engineer who is looking to join a team that solves interesting and challenging problems with innovative technology.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+As a senior consultant, I help solve client issues by gaining insight of their business and information to customers and provide solutions to customers.
+• Leading a team of 3 developers
+• Complete the game flow website from scratch, preparing daily analytical writing for unit tests.
+2015-02-07 to 2018-01-01
+manta test systems is a company whose focus is on delivering top notch web and mobile applications to our clients
+• Updating documentation on ad and office front, windows forms and wide testing.
+• Modeled and developed daily dell analytics and reports
+2014-09-01 to 2015-01-01
+I have worked with several companies like, one in small, maintaining and engineering teams (Gurgaon, rails and) on various projects and fit project
+• Provided expertise that software can release change academy manager
+• Mysql, Linux, hosting, cloud

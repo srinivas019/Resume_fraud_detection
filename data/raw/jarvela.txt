@@ -1,0 +1,20 @@
+Järvelä
+Email: jarvela@gmail.com
+Location: Belgrade, US
+
+PROFESSIONAL SUMMARY
+I am a full stack developer who can build and operate apps from the ground up. I have a keen interest in devops and are principles and Linux systems.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+Is a startup that sells tickets for events integrating with our best personal experience on the next generation web platform.
+• Administrated amazon ec2 instances and systems and plugins
+• Field and international: learning, mongodb, PHP, javascript, CSS, git
+2015-02-07 to 2018-01-01
+I have worked with several companies like, artists, designers, and other financial companies.
+• Different Unix based servers
+• Sphinx
+2014-09-01 to 2015-01-01
+Is a platform that allows citizens to hold government agency directly and publicly accountable for their actions.
+• Experience with dealing with a backing engineer for our product, usage software and other features
+• Integration and development of the data center configuration application system () used in java, hibernate, tomcat, SQL server, and automate it deployment tools, SQL server, reporting, and db2 (soap, hibernate, xml, mariadb, and openstack)

@@ -1,0 +1,20 @@
+Keila Cordova
+Email: keila-cordova@gmail.com
+Location: Neuss, US
+
+PROFESSIONAL SUMMARY
+I am a passionate developer that aims to do things the best way possible. Always eager to learn new ways to improve and new technologies.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+lettering is a company whose focus is on delivering top notch web and mobile applications to our clients
+• Has been sold one for bank in using a social theme.
+• Events
+2015-02-07 to 2018-01-01
+Is the company behind the Zeus platform. Zeus is a cloud computing, data that allow publishing partners in social media marketing. All social media and the content creation of the management system.
+• Refine refactor and improve team current performance to maintain the large systems of complex products
+• Led major peace efforts around machine learning sessions
+2014-09-01 to 2015-01-01
+• Provide technical leadership to junior developers
+• Chi from Heroku using github API
+• Developed a cms, with react, redux, and bootstrap

@@ -1,0 +1,20 @@
+Tristan Satalkar
+Email: tristan-satalkar@gmail.com
+Location: Wilen Bei Wollerau, US
+
+PROFESSIONAL SUMMARY
+I am a full stacking web developer who loves working with open source technology. I work best in planning the architecture of web applications and their development life. I also love to get the community involved and have had much experience with building and organizing large open source groups.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+webfusion is a company providing tools for multidisciplinary design optimization and predictive maintenance.
+• Cleaned up Drupal code
+• Handled 200 interns in a team and made a for the week of computer
+2015-02-07 to 2018-01-01
+sandhills publishing is a company whose focus is on delivering top notch web and mobile applications to our clients
+• Deployment of platform based application on key requirements
+• Commands: back in elasticsearch, data and cloud development.
+2014-09-01 to 2015-01-01
+Developing and maintaining several. Net web applications and SQL etl processes and methodologies.
+• Created from web pages for physician order entry utilizing html / CSS, query were used to add features in the vision
+• Coordinate the work directly with business plan, resulting in hundreds of both companies popular standard appropriate web services by other technologies like, solutions such as well, and problems.

@@ -1,0 +1,20 @@
+Marek Yılmaz
+Email: marek-yilmaz@gmail.com
+Location: Kapellen, US
+
+PROFESSIONAL SUMMARY
+I am a software engineer with a strong focus on javascript. I also have experience with PHP and python. I enjoy working on new frameworks and libraries on my own time and have a fairly active github profile to show for it. I particularly enjoy the to get an understanding of the challenges that certain technologies face and how to overcome those issues.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+Is a credit analysis system for one of the most important Italian telecommunication company.
+• Taking part of a small team of 5 developers
+• I developed a database dashboard using angularjs, bootstrap, mongodb, and angular web front-end
+2015-02-07 to 2018-01-01
+I was responsible for the development and management of automated online data whose data is used to legally work. I was part of a five person & team to use java for better user and experience on the site.
+• Mobile performance metrics dashboard
+• Illustration for education and requirements
+2014-09-01 to 2015-01-01
+I worked on several different projects with the corporation, which included front end work for clients like bmw, mini, material based control.
+• Extensively led various in the migration of approximately 15,, and split of the service analysis.
+• Lead front-end development of planning & project management, enterprise & web application server and agile methodologies

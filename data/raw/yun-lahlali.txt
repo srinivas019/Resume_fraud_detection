@@ -1,0 +1,20 @@
+Yun Lahlali
+Email: yun-lahlali@gmail.com
+Location: Changsha, US
+
+PROFESSIONAL SUMMARY
+I am a highly motivated and skilled programmer in several front and backend web technologies committed to crafting creative and maintainable solutions to problems.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+I was in charge of building mobile web apps, web apps and mobile sites for all clients on the website.
+• Implemented a comprehensive restful API for service
+• Fix issues for my open source and software architect.
+2015-02-07 to 2018-01-01
+I worked on a project which involved the creation of a web page that needed to be with all versions of and above. The page was showing a detailed of a product line with a description for each part of it
+• Deployed applications with azure and performing a custom integration, modified queries to find internal and employee processes
+• Responsible for full lifecycle management for the application and requirements
+2014-09-01 to 2015-01-01
+Worked on a team to implement and integrate new customer CRM system into the existing insurance claims system
+• Earned and the customer relationships, move, / them for the junior products, in both the client and scope.
+• Modular home development in multiple company products

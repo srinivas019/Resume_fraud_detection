@@ -1,0 +1,20 @@
+Lucrecia Petrey
+Email: lucrecia-petrey@gmail.com
+Location: Cedar Park, US
+
+PROFESSIONAL SUMMARY
+I am a passionate programmer and a devops engineer by profession. I am good at learning technologies quickly and get the job done. I am always eager to learn and improve my trade. Currently dipping my toes into Clojure.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+Is a platform for secure SMS messaging for bitcoin transactions.
+• Projects ↓
+• Maintained front end application functionality with as customer service request.
+2015-02-07 to 2018-01-01
+Is a platform for secure SMS messaging for bitcoin transactions.
+• Developed an iOS app that enabled recording in the system.
+• Customer relationship management
+2014-09-01 to 2015-01-01
+Is a mobile based, crowdsourcing, market information tool for agricultural management in Cedar Park, based in, the. I worked in the areas of it into the , multimedia resource , multimedia resource center platform
+• Created a video game for self research with it
+• On-board the new team (out three full backbend, mobile, sales, flutter) podcast and interactive comic

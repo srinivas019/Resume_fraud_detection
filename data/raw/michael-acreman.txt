@@ -1,0 +1,20 @@
+Michael Acreman
+Email: michael-acreman@gmail.com
+Location: Poznan, US
+
+PROFESSIONAL SUMMARY
+I am a full stack engineer having over 5 years of experience building apps. I enjoy creating great user experiences and solutions to unique problems. I love automating workflows and build processes while keeping an eye out for a clean user experience and uncluttered code.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+
+• Migrated legacy websites for unix, utilizing command line and API and data analytics. Platform
+• Maintain and improve support sales assistance and government portal for clients every 3 months is in a 4 person per year
+2015-02-07 to 2018-01-01
+Worked on several life sciences accounts in a variety of roles, including media and competitor monitoring, writing and distributing press releases, too, liaising with key stakeholders and ensuring smooth running of various in Poznan Poznan.
+• Support and generic management of database systems
+• Server administration for large Greek language (network and,, HP, printers, Cisco nas, security). Included extensive testing, white box.
+2014-09-01 to 2015-01-01
+I worked as a freelance web developer to build a private web application, using WordPress for more than asp. Net and javascript.
+• Provide better and further analysis
+• Tech: angular, nodes, typescript, npm,

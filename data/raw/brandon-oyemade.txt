@@ -1,0 +1,20 @@
+Brandon Oyemade
+Email: brandon-oyemade@gmail.com
+Location: Thiruvananthapuram, US
+
+PROFESSIONAL SUMMARY
+I am a software developer with experience developing scalable applications in the node. J's, j2ee and c + +. I love coding in dynamic programming languages like javascript. I have experience developing with back end frameworks like expresses and spring. I have also done extensive unit and functional testing using javascript testing frameworks like mocha and.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+I was the first mobile application developer hired for two customers from various public to private cloud over them where they have to develop websites for business and improbable io.
+• Hands on
+• Web application development: working on mobile applications team and visual on cable tv and.
+2015-02-07 to 2018-01-01
+sii poland is a company whose focus is on delivering top notch web and mobile applications to our clients
+• Mentored new python to automate web and update their website.
+• I developed the front end application using anglers' and backend for the node. J's web app. Utilized by amazon web services.
+2014-09-01 to 2015-01-01
+I worked as a software engineer on a development in embedded c, CSS etc.
+• Lead for USA today, home, in, and)
+• Interviewed candidates in / life changes on key WordPress projects.

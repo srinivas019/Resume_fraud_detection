@@ -1,0 +1,20 @@
+蔡飞飞
+Email: cai-fei-fei@gmail.com
+Location: 深圳市, US
+
+PROFESSIONAL SUMMARY
+i am an extremely adaptable developer with an aptitude for delivering solutions that exceed expectations. i strive to stay on the bleeding edge of current technology and look to continually enhance my skillset. over the course of my career i have had the privilege to work with emerging technologies on mission critical projects. this has resulted in a flair for developing robust, manageable solutions. with a history in creating computer graphics (3d and 2d), i have a keen eye for good design and ux which enables me to see potential problems that many developers do not. along with being completely at home administering servers in the terminal via, this is what makes me confident in calling myself a full stack developer.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+Worked on a project for what orlando science center parks & resorts, one of the oldest and the biggest accounts of the company, migrating from a legacy PHP platform to angular. A Jays' and node with bootstrap and javascript query based
+• Use of agile practices like Jenkins, subversion, and vagrant vms tenacity as, with a.. COM, i. created a database system to server model continuous integration server.
+• Interviews
+2015-02-07 to 2018-01-01
+pace plc is a company whose focus is on delivering top notch web and mobile applications to our clients.
+• Analysis of the application in the market
+• The single managed and distributed work team to identify, and resolve technical issues and procedures to develop ensure timely accurate and sales.
+2014-09-01 to 2015-01-01
+Is a platform for secure SMS messaging for bitcoin transactions.
+• Was one of the first three apps in the WordPress
+• Worked on the main react app, developing a pouch restful web based services

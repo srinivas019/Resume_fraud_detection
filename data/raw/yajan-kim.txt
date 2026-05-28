@@ -1,0 +1,20 @@
+Yajan Kim
+Email: yajan-kim@gmail.com
+Location: Parkville, US
+
+PROFESSIONAL SUMMARY
+I am a software developer with experience developing scalable applications in the node. J's, j2ee and c + +. I love coding in dynamic programming languages like javascript. I have experience developing with back end frameworks like expresses and spring. I have also done extensive unit and functional testing using javascript testing frameworks like mocha and.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+char bar, beer kc is a company whose focus is on delivering top notch web and mobile applications to our clients
+• In charge of maintaining game account and data persistence systems (mysql,) and web services
+• Html email and photo shop
+2015-02-07 to 2018-01-01
+Development of automobile sales software to manage stock and advertisements using asp. Net moves, jquery, jquery angularjs, working with user workflow such as as a scrum master.
+• Software architecture consulting for various cms
+• Worked with team planning on important features.
+2014-09-01 to 2015-01-01
+In this role, I assisted in marking student assignments. This involved me marking assignments written in a wide variety programming languages such as Scala and javascript and with a wide variety of programming languages such as Scala and javascript and build scripts.
+• Spearheaded the move of new 3d printed documentation: / customization of system / architecture.
+• Offer translations for mobile.

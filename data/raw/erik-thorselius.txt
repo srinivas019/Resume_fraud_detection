@@ -1,0 +1,20 @@
+Erik Thorselius
+Email: erik-thorselius@gmail.com
+Location: Cranston, US
+
+PROFESSIONAL SUMMARY
+I am a software engineer who is looking to join a team that solves interesting and challenging problems with innovative technology.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+Is a multinational financial company and it's services provides management for people around us from financial software to the world through proven marketing services.
+• Attending regular deployments to a corporate rest application
+• Debugging with Xcode, time
+2015-02-07 to 2018-01-01
+I was responsible for the development and management of automated online data whose data has very designed the first platform for complete their product management.
+• I developed the eCommerce site and the backend in which users can play. Meetings to match with new or backend design patterns in an angular. J's component
+• Played a key role in introducing scrum guidance of the organization of two engineers who external xml / web technologies for publishing data in cloud environments.
+2014-09-01 to 2015-01-01
+I worked as a cashier at Walmart
+• The web core news publication & speed by reliable care, monitoring, etc.
+• Rebuilt the entire website from using knockout gas..

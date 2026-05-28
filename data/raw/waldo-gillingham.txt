@@ -1,0 +1,20 @@
+Waldo Gillingham
+Email: waldo-gillingham@gmail.com
+Location: Cologne, US
+
+PROFESSIONAL SUMMARY
+I a full stack developer who loves working with open source technology to create solutions to challenging problems. Opinionated when it matters and compromising when it does, I am always seeking the best solution for the situation at hand.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+abacus systems solutions is a company whose focus is on delivering top notch web and mobile applications to our clients
+• Has sold items in 2 for art needed within Microsoft
+• Advised stakeholders at all levels of current infrastructure projects.
+2015-02-07 to 2018-01-01
+Developed a cms (. COM) with a focus on content across multiple social media accounts (associated press, etc.).
+• Worked on the product marketing model
+• Worked closely with design and printers to print
+2014-09-01 to 2015-01-01
+The lab using both experimental and computational tools.
+• Very first sysadmin and develops work through requests for production environment
+• Made use of less (sass, CSS, javascript, bootstrap, etc.) in working

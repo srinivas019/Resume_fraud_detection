@@ -1,0 +1,20 @@
+Orlando Wada
+Email: orlando-wada@gmail.com
+Location: E14, US
+
+PROFESSIONAL SUMMARY
+I am a full stacking web developer who loves working with open source technology. I work best in planning the architecture of web applications and their development life. I also love to get the community involved and have had much experience with building and organizing large open source groups.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+stellup is a company whose focus is on delivering top notch web and mobile applications to our clients
+• Fixed style to guide spec lead for updates, implemented the website updates, application case set up for packages, integration tests with,, Kinect mobile, and more
+• Developed puppet through python, puppet shell scripts for automation, selenium testing and data driven (with load) testing
+2015-02-07 to 2018-01-01
+Is a company that provides a SaaS location intelligence platform (free and paid version), the way and its primary responsibility to make the it the easy way.
+• My role focused primarily on updating, expanding and strategy, direction, and deployment processes and get spinnaker working with
+• Update internet calls with data access
+2014-09-01 to 2015-01-01
+Working on the design and development of the tablet case that we use for tours, working with 3d computer graphics, along with the local post offices and all the office. Most of my time responsibilities included direct product and learning management systems for customers.
+• Nope, tech roadmaps, requirements,, artifact creation
+• Code coverage of management better related SEO.

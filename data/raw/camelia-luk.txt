@@ -1,0 +1,20 @@
+Camelia Luk
+Email: camelia-luk@gmail.com
+Location: Paoli, US
+
+PROFESSIONAL SUMMARY
+I am a software engineer with three years of professional experience as full stack web development. In that period I have worked on back and front end, was in charge of dev and developmental tasks, developed micro service and monolith architectures. I say I am an expert in those, as I still learn new things every day, but I think I have a decent overall knowledge of how things work, how they should work, and why they. I believe in balance of new technologies and good old principles.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+
+• Resolved production downtime by support for the application
+• Mark image processing, from the editor, for. I front end with backend, social networking, database, access, web client API, and its servers.
+2015-02-07 to 2018-01-01
+I have been teaching in several topics, among them: object oriented programming, elements of programming, algorithm and data structures, computer graphics, computer networks and infrastructure, editing images and.
+• Deployed code quality checks and improving integration tests for in a large server environment for my team
+• Processing request for system maintenance
+2014-09-01 to 2015-01-01
+Was a fully managed hosting solution that primarily serviced advertising agencies. They offered dedicated and based servers and specialized in open source web technologies.
+• Technologies utilized (node, as)
+• Acted as as a developer a lead and scrum master.

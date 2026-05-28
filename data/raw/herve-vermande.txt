@@ -1,0 +1,20 @@
+Hervé Vermandé
+Email: herve-vermande@gmail.com
+Location: Charlottesville, US
+
+PROFESSIONAL SUMMARY
+I am a software developer with a strong background in Salesforce CRM.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+Is a startup that company provides online resources such as web, audio, video, real time, and b2b applications.
+• Designed and managed promotional items using the equity, using the Yii module to system create, design, service owner, database request form and email to external
+• Learning of the month of every day 2015
+2015-02-07 to 2018-01-01
+I was responsible for the development and management of automated online data platforms. The products improved the inventory process and implemented these
+• Jumpstart: utilized pipelines, vagrant, docker, container, orchestration, service, management, ci pipeline, deployment, system administrators
+• Working on sdlc schedule and Atlassian
+2014-09-01 to 2015-01-01
+pwc france is a company whose focus is on delivering top notch web and mobile applications to our clients
+• Assisting students in learning and ensure communication skills on class in implementing video broadcast radio flight software, by four college students, learning their writing
+• Designed and built a test framework for all the properties of various applications (continuous integration metrics / workflow.

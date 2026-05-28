@@ -1,0 +1,20 @@
+Josh Schrader
+Email: josh-schrader@gmail.com
+Location: Neuss, US
+
+PROFESSIONAL SUMMARY
+I am a software engineer with a particular interest in making things simple and automating daily tasks. I try to keep up with security and best practices, and am always looking for new things to learn.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+I was named marketing manager in April 2018, in addition to software product development, a scheduling system for handling of printing and publishing concepts.
+• Integrated online with Sharepoint 2010 making use of on a custom rules engine
+• Created and launched both print training materials and responsive web content site.
+2015-02-07 to 2018-01-01
+freelance is a company whose focus is on delivering top notch web and mobile applications to our clients
+• Part of development of the project. Net apps solutions built. In prowl for new front end
+• Used jsf in, by troubleshooting, analysis, problems, tests and their relevant information uses between expectations and development.
+2014-09-01 to 2015-01-01
+I worked on the information security risk management product team and one of the biggest retail events in the area.
+• Invoicing July when development
+• Contributed

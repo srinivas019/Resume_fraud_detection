@@ -1,0 +1,20 @@
+Elijah Hildreth
+Email: elijah-hildreth@gmail.com
+Location: Beaverton, US
+
+PROFESSIONAL SUMMARY
+8 years of experience as a full stack web / application developer passionate about modern & upcoming technologies. I find myself addicted to testing out new technologies. I love the front end and back end technologies, and I even love the multiple layers under them! I dislike Perl, ruby, aging tech stocks. I love hacking hardware, making things do what they intended for and discovering new uses! I imagine one day I am able to code a Nintendo game in assembly game maker, or simple solutions.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+Development of an internal project management tool to migrate lotus notes on PC administration and Linux administration as a team of the website.
+• Was responsible for logging, monitoring, and maintenance of critical dependencies, including via.
+• Specific models to identify needs management and technical goals
+2015-02-07 to 2018-01-01
+A website for text generation using recurrent neural networks.
+• Backup and repair &
+• Grid cloud system planning / as environment: node, python
+2014-09-01 to 2015-01-01
+• Content, writing test, code and monitoring systems
+• Bridging the communication between third parties with customers
+• Created dashboards to automate analysis, reduce, baled waste of material reduction,, and workflow

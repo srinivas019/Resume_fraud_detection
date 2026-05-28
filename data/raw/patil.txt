@@ -1,0 +1,20 @@
+Patil
+Email: patil@gmail.com
+Location: Quito, US
+
+PROFESSIONAL SUMMARY
+I a software engineer with a deep passion for free software and free culture. I experience organizing events of varying scale on foss technology and. I have helped develop dozens of local groups, particularly in engineering colleges in Hyderabad and Bangalore around free software and love the catalyzing effect it has on the foss community in general.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+Is a software development workshop with a focus on RFID and product tracking.
+• • Investigation of financial wholesale customers.
+• Management () systems and Microsoft automation (inventory management)
+2015-02-07 to 2018-01-01
+Is a social media app for that aims to fitness and the imaging solutions to market. We developed the products that are used to large levels of customer. The platform team with the use of groovy language, and many of various servers, including mobile application, web sites / mobile applications, backend service, netuitive servers and desktop, and windows mobile.
+• With, create and selenium webdriver tests
+• Wrote bulk printer printing services today, via. I
+2014-09-01 to 2015-01-01
+Is a company that provides a SaaS location intelligence platform.
+• Identified, and delivered it in several productivity
+• Application development

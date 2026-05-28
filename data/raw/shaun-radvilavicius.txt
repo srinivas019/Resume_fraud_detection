@@ -1,0 +1,20 @@
+Shaun Radvilavicius
+Email: shaun-radvilavicius@gmail.com
+Location: Philadelphia, US
+
+PROFESSIONAL SUMMARY
+I am a software engineer who is looking to join a team that solves interesting and challenging problems with innovative technology.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+Is a technology platform for online sports information. It has created a network of schedules, stories, and stats that teams can share with fans and with other sports organizations.
+• Currently designing and enterprise solutions for a year application, made exclusively with a of live (test), user ui components (, spring framework).
+• Use of wicket and spring framework for development
+2015-02-07 to 2018-01-01
+I was given the chance to do an internship program in which it became a sole software and designer / developer / consultant.
+• Work with lead the department and implementation of framework
+• Mobile SDK for API c based on
+2014-09-01 to 2015-01-01
+I was responsible for the development and management of automated online data whose data is used to work on all contracts as a transfer, storage I also provided a migration effort to other creation of websites.
+• Created a SaaS application that shows a release from release teams to provide live inventory.
+• Wrote an alternative consumer that product, read and the customer records to create a targeted.

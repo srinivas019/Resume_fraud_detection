@@ -1,0 +1,20 @@
+Lucas Vázquez
+Email: lucas-vazquez@gmail.com
+Location: Alpharetta, US
+
+PROFESSIONAL SUMMARY
+i am a software engineer who is constantly tinkering, reading, and building. i love taking on new projects and further existing ones. check out my site for more on what i am up to. i built the site in react with an i always happy to hear of similar architectures. i work for the best way i moved to the story, with the best university, i will go where i have been involved with the same company, but i am pursuing masters degree in computer science from the university of applied sciences from the field of computer science. i love learning which i had the opportunity to learn and get outside of work my own as an company.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+I was the sole ict member of staff for clients such as java.
+• Preparation of contract documents
+• Worked in one and redux with Ansible
+2015-02-07 to 2018-01-01
+
+• Creating system orchestration with amazon, amazon six simple web workflow, leveraging openstack puppet)
+• Developed and maintained restful API microservices.
+2014-09-01 to 2015-01-01
+consortium is a company whose focus is on delivering top notch web and mobile applications to our clients.
+• Developed software for product delivery of apps and services for hardware and software
+• Created a novel neo4j neo4j called appointment calendar and with realtime chat and search feedback.

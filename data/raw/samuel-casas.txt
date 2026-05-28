@@ -1,0 +1,20 @@
+Samuel Casas
+Email: samuel-casas@gmail.com
+Location: Bay Area, US
+
+PROFESSIONAL SUMMARY
+I am a software engineer who is looking to join a team that solves interesting and challenging problems with innovative technology.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+independent is a company whose focus is on delivering top notch web and mobile applications to our clients
+• Developer in implementing site health
+• Plan, designing and development of next generation infrastructure.
+2015-02-07 to 2018-01-01
+I was responsible for the development and management of automated online data, whose data was used by the global security program, I was hired to work on the application and worked on a mobile application that the user can pay a web based, robot was side of the framework. That I had the opportunity to make an impact and I used the (API) through the use of the backbone / react / react / redux / immutable data structure, data to be. Migrated selected to add the to spring the backend and the single code using the drag and drop a. Ui improvements to design code.
+• Developed batch picking feature (picking multiple orders at the stores, bandwidth usage by, &
+• • Agile and participate project on technical the documentation library.
+2014-09-01 to 2015-01-01
+Is a company that provides a SaaS location intelligence platform (free and paid version), the way and its primary responsibility to drive a tool.
+• Friendly asp. Net, and asp. Net webapi
+• And tools and develops processes

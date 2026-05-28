@@ -1,0 +1,20 @@
+Suho Antonio Jain
+Email: suho-antonio-jain@gmail.com
+Location: Cranston, US
+
+PROFESSIONAL SUMMARY
+I am a software engineer with a strong focus on javascript. I also have experience with PHP and python. I enjoy working on new frameworks and libraries on my own time and have a fairly active github profile to show for it. I particularly enjoy the to get an understanding of the challenges that certain technologies face and how to overcome those issues.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+Is a technology platform for online sports information. It has created a network of schedules, stories, and stats that teams can share with fans and with other sports organizations.
+• Performed communication through basic reports and analysis with better pattern unit and integration tools.
+• Approval from large codebase with 20 repositories to access, saving a high of hardware costs.
+2015-02-07 to 2018-01-01
+Is a software development workshop with a focus on RFID and product tracking.
+• Developed using a powerful module to access to the data different branches
+• Developed multiple Sharepoint sites for use in the reporting
+2014-09-01 to 2015-01-01
+Working on a project for analytics / statistics on printers for printing on textile products. This product is designed to display many data, such as custom content, writing, analytics, delivered software to run on the browser client.
+• Developed product that would drive to enable better customer insight of products
+• Take ownership of the software team

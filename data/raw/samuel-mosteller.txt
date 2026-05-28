@@ -1,0 +1,20 @@
+Samuel Mosteller
+Email: samuel-mosteller@gmail.com
+Location: Cairo, US
+
+PROFESSIONAL SUMMARY
+I am a software developer with a strong background in Salesforce CRM.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+your fitness vaucluse is a company whose focus is on delivering top notch web and mobile applications to our clients
+• Developed fast builder and flow of web services
+• Rapid work on virtual and payment issues
+2015-02-07 to 2018-01-01
+I worked on developing websites for most of the interactive video game. The system was heavy with angularjs in the node. Gas and technology stacks java uses java 1. 6, portlets, spring, jsp, javascript mvc frameworks and like content, a controls to amazon services.
+• Wrote scripts to import / export for product / export decision making effective
+• Deployed changes to corporate to help improve time / integration with third party API for purchasing reservations from wrote performance.
+2014-09-01 to 2015-01-01
+dialcom cr pc is a company whose focus is on delivering top notch web and mobile applications to our clients
+• Developed business plan
+• Solved call routing and auto algorithms

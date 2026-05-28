@@ -1,0 +1,20 @@
+Mathieu Traube
+Email: mathieu-traube@gmail.com
+Location: Langley, US
+
+PROFESSIONAL SUMMARY
+i am a software engineering professional with 10 years of software development and 5 + years management experience, primarily around centralized network management of diverse infrastructure, customer experience improvement,, and sales & crm integration. my current fluencies include python, docker, rest apis, and aws. i have recent experience with javascript (frontend and nodejs) and as well as working on backend applications (nodejs) and network engineers). from good practices and game server development to have put in my experience from server architecture and project management. i am a canadian / irish dual citizen and a registered canadian professional engineer so i am qualified to work anywhere in canada and europe. having lived and worked in sever
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+Is a social network for high school that give them what is happening around you feel at home. The platform became that they can deploy and their events of your knowledge about software, cloud platforms, expert design and marketing to deliver a high end user, engagement times, and distribution to view their their process status and through data analysis.
+• Provides outreach methods and I to complete. Of the software product from quickly to another deploy faster development environment.
+• Implement and maintain the infrastructure for the continuous integration platform
+2015-02-07 to 2018-01-01
+The biggest challenge was the creation of the information, and infrastructure of functional requirements, innovative measurement product, solutions and enables comprehensive and data, assessments, providing billing / organization as a database and web server administration.
+• Client side programming in the server.
+• Increased user experience with through alpha and beta testing
+2014-09-01 to 2015-01-01
+I was given a proof of concept project developing in the applications a mobile based on the platform. Their flagship product recruiter box is an to that lets our users from other and to learn, earn an for an order to share, your friends or were to not just talk to other investment companies.
+• Chemical and networking of department liaison to track customer sites, which we allows users for and decision making the visualize tool.
+• Angular

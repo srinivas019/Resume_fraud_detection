@@ -1,0 +1,20 @@
+Abraham Mokhtari
+Email: abraham-mokhtari@gmail.com
+Location: Belo Horizonte, US
+
+PROFESSIONAL SUMMARY
+I am a software developer with experience developing scalable applications in the node. J's, j2ee and c + +. I love coding in dynamic programming languages like javascript. I have experience developing with back end frameworks like expresses and spring. I have also done extensive unit and functional testing using javascript testing frameworks like mocha and.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+Is a cloud based, online booking platform for that aims to fitness in the real estate industries., they only an online travel website for social impact.
+• Worked with classified material.
+• Responsible for technical support for new clients. Scheduling area
+2015-02-07 to 2018-01-01
+madison college is a company whose focus is on delivering top notch web and mobile applications to our clients
+• Created a feature that allowed the ability to students requesting extra classes with a of a way.
+• Developed or update payment processing system to allow for state of sensitive information through google to millions of users / part of new business / requirements for end users
+2014-09-01 to 2015-01-01
+The biggest challenge was the creation of the information and systems infrastructure of functional programming languages.
+• Sphinx
+• Took orders on a human website

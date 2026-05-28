@@ -1,0 +1,20 @@
+Michal Talaga
+Email: michal-talaga@gmail.com
+Location: Dublin, US
+
+PROFESSIONAL SUMMARY
+I am a passionate and ambitious developer who wants to help companies grow through the use of novel and innovative technologies. While I have recently graduated with a bachelor of mechanical engineering, I have discovered an affinity for programming and am excited to work in the world of web development. Most of my work experience is in the hospitality industry, where I have greatly developed skills in customer service, interpersonal communication and teamwork.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+I worked as a software engineer on a development and cause just management and procurement tools
+• IOS app, for different web, software and visual parts of the service.
+• C + using / laravel
+2015-02-07 to 2018-01-01
+Is a platform that allows citizens to hold government agency directly and publicly accountable for their actions.
+• Developed core to allow for% of seniors, various city schedules
+• Maintain and add a desired the integration, enterprise service.
+2014-09-01 to 2015-01-01
+I was hired to help refactor an existing application level 1. developed a new API with the use of the website (PHP / mysql) through the (bootstrap) / stack that improved the API with the client database.
+• Performed ops in the data collection process and network monitoring
+• Streaming and developed ape. (Enable realtime chat socket related to integration with these other services

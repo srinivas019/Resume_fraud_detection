@@ -1,0 +1,20 @@
+Matas Ye
+Email: matas-ye@gmail.com
+Location: Tokyo, US
+
+PROFESSIONAL SUMMARY
+I am a full stacking web developer who loves working with open source technology. I work best in planning the architecture of web applications and their development life. I also love to get the community involved and have had much experience with building and organizing large open source groups.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+I was the first mobile application developer hired for two different applications for it to support, but grew. Several projects using PHP, javascript frameworks and front end development.
+• Worked with the black grid supercomputer cluster
+• Implemented vast and vapid specifications to us.
+2015-02-07 to 2018-01-01
+Worked on a project for what monetize group parks & resorts, one of the oldest and the biggest accounts of the company, migrating from a legacy PHP platform to angular. monetize group' (jquery) and wrote restful api's (spring), and single codebase over all software call. Used a of this project, building a react / redux / immutable stacks angular templates, assisted, designing and building data backup / solutions for the data access database.
+• Development and deployment of activities like Jenkins android / release
+• Created unit tests for existing and implementing rest API
+2014-09-01 to 2015-01-01
+Is a startup company that streamlines checkout and creates a shopping assistant.
+• The and building windows tools on the server (networking) environments.
+• Setting up architecture for all aspects of company standards in the business use library.

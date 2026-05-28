@@ -1,0 +1,7 @@
+{
+  "weights": {
+    "random_forest": 0.3,
+    "xgboost": 0.4,
+    "gradient_boosting": 0.3
+  }
+}

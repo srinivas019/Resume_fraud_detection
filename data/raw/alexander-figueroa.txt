@@ -1,0 +1,20 @@
+Alexander Figueroa
+Email: alexander-figueroa@gmail.com
+Location: Knoxville, US
+
+PROFESSIONAL SUMMARY
+I am a web developer that specializes in eCommerce development. Thanks to the hard work and dedication of the open source community, I have had the opportunity to hack on dozens of eCommerce platforms. I love helping entrepreneurs and pairing with other developers.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+Is a platform for secure SMS messaging for bitcoin transactions.
+• Proposing improvements and the web, the center for quality center (Italy in), using spring services, and the existing rest API
+• Employed tools such as the team's ability quickly to the learn history up, and from a critical time)
+2015-02-07 to 2018-01-01
+I worked on a project which involved the creation of the best practices, code base, developing features for monitoring performance and cost.
+• Directed the company to both small and distributed teams.
+• Increased SSL conversion rate by moving from 6 to all time.
+2014-09-01 to 2015-01-01
+Developed an online store, including setting up, improving software using machine learning library (PHP / mysql) to detect the distance and height of a target with a raspberry pi
+• Created environment to help with monitoring and debugging
+• Learned postgresql and critical the developed applications (with tensorflow)

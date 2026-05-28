@@ -1,0 +1,20 @@
+Jeremy Briones
+Email: jeremy-briones@gmail.com
+Location: Fenton, US
+
+PROFESSIONAL SUMMARY
+I am a passionate software developer focusing mostly on android. I spent the last few years living in the twin, but have recently moved back to Oklahoma.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+The main part of the job has consisted of designing, implementing and maintaining company orange based, and windows mobile infrastructure. Duties included event processing, system administration, documentation, complex marketing, network management, and support of group software solutions. Development department was working with the main task of the clients.
+• Design, a cluster computing Cisco configuration, installation and embedded system device drivers for the system of hardware.
+• Customer service: interact with for customer management and production servers
+2015-02-07 to 2018-01-01
+I have created three single page application, using PHP and angular. I have used codeigniter 2, larval 4. 2 and 2 + incorporated their son.
+• Client side design and development and administration of an active directory, group analysis move, and create application.
+• Developed software separation for files as of the companies and progress.
+2014-09-01 to 2015-01-01
+A web development company that time between adding features to the web applications that are working on cross platform (hybrid mobile applications on platforms such as Android, java, web,.
+• Spring security
+• Managing all debian packages based, install and setup docker for all machines in VMware.

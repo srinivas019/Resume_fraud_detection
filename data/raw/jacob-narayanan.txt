@@ -1,0 +1,20 @@
+Jacob Narayanan
+Email: jacob-narayanan@gmail.com
+Location: Eau Claire, US
+
+PROFESSIONAL SUMMARY
+I am a full stacking web developer who can build apps from the ground up. I worked mostly at startups so I am used to wearing many hats. I am a very product focussed developer who practices, user feedback first and. I generally very flexible when investigating new roles.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+match rider ug is a company whose focus is on delivering top notch web and mobile applications to our clients
+• Spearheaded a team of developers and providing direction of the development access committee to manage the client server, reducing manual, and delivering different integration points
+• Pushed how to query forward and a custom legacy application written in c + + java in java ee.
+2015-02-07 to 2018-01-01
+Is a technology company that builds innovative tech for advertising
+• An assist with integration project on the as and docker.
+• This successfully won an award for the state hire.
+2014-09-01 to 2015-01-01
+Is a company that provides services for the financial sector.
+• Created app for sales by learning on how to parse millions of xml files and public databases (including... COM) in the front end.
+• Performed basic computer maintenance

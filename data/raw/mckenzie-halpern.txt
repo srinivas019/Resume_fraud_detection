@@ -1,0 +1,20 @@
+Mckenzie Halpern
+Email: mckenzie-halpern@gmail.com
+Location: Tallinn, US
+
+PROFESSIONAL SUMMARY
+I am a full stacking web developer who loves working with open source technology. I work best in planning the architecture of web applications and their development life. I also love to get the community involved and have had much experience with building and organizing large open source groups.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+Working on the development team and backend related to integrations, and providing guidance to support systems like systems architecture and development, staging environments, and virtual servers and desktop infrastructure.
+• Gained knowledge about managing, the responsive design / ux
+• Reports using given analytics. Are.
+2015-02-07 to 2018-01-01
+My main duties were to provide guidance to end users on the use of the services provided by the operator, also if it was necessary I had to generate network issue tickets and provide the maximum possible of for an effective solution of the problem
+• Managing debian servers
+• Developed corporate identities for..
+2014-09-01 to 2015-01-01
+As a part of my own initiative I created the system for the dance school from scratch to complete 8 / full projects. Working full with digital project managers like, etc.
+• • Worked closely with product managers and software engineers to provide solutions, technical documents or companies.
+• Developed and streamlined a process training for our platform

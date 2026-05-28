@@ -1,0 +1,20 @@
+Mary Fournier
+Email: mary-fournier@gmail.com
+Location: West Lafayette, US
+
+PROFESSIONAL SUMMARY
+i am a software engineer with three years of professional experience as full stack web developer. in that period i have worked on back and front end, was in charge of dev and devops tasks, developed microservice and monolith architectures. i say i am an expert in those, as i still learn new things every day, i think i have made principle of rtfm, and have. have some experience with over the last three people throughout my life, i am constantly looking for a new opportunity to put a nice and to work as a developer with 8 years. my main focus is on solid web design and volunteering challenges and have knowledge to become my best as a software engineer.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+Is a digital platform (app) that people who have an exclusive available parking place?
+• Developed and released on new cue or system
+• Development of app and API integrations with external vendors. I have to maintain a high level of 5 test data. Provide status updates and enhancements for each other team.
+2015-02-07 to 2018-01-01
+Is a company that provides a SaaS location intelligence platform.
+• Works on team and great meetings, as well as researched resources, providing writing, technical specification, design and implement plans security for the final product. Delivered training sessions, and in order to successfully the lead to increase the end user.
+• Maintained is applied.
+2014-09-01 to 2015-01-01
+Is a technology incubator focused on developing mobile and internet opportunities in West Lafayette. Consulting for clients, business cards, and infrastructure for various companies.
+• Managed and postfix mail servers
+• Cloud foundry (, / /) shell

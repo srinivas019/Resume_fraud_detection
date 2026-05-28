@@ -1,0 +1,20 @@
+Joe
+Email: joe@gmail.com
+Location: Portland, US
+
+PROFESSIONAL SUMMARY
+I am a full stack developer specialized in web and mobile. I worked remotely for more than 15 years. I like to work on challenging projects. I love coding in javascript and python. I am passionate about new technologies and implement them.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+Is a software development workshop with a focus on RFID and product tracking.
+• ,
+• Taught anglers' and spring moves
+2015-02-07 to 2018-01-01
+Is a company that produce and deliver multimedia and digital content across different clients, focusing on providing quality and medical development consultancy.
+• Developed continuous integration and deployment strategies for scale and scalability
+• Jira and confluence administration expert & testing
+2014-09-01 to 2015-01-01
+produtec informatica ltda is a company whose focus is on delivering top notch web and mobile applications to our clients
+• Leadership with ownership, help them to design them meet their innovation
+• Deliver patches bugs in the code to allow for analysis of code status and developers on the email system.

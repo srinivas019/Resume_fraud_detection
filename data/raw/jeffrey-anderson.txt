@@ -1,0 +1,20 @@
+Jeffrey Anderson
+Email: jeffrey-anderson@gmail.com
+Location: Capitol Heights, US
+
+PROFESSIONAL SUMMARY
+I am a passionate developer that aims to do things the best way possible. Always eager to learn new ways to improve and new technologies.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+I created online courses using html / CSS on a framework for university faculty. This included creating sites based off mock-ups, image editing in photoshop, video recording / editing on national university of singapore, setting up quizzes and exams, and setting up discussion forums.
+• Maintain index / SEO page portal.
+• Authoring flash tool kit
+2015-02-07 to 2018-01-01
+• Implementing, managing server instances at amazon ec2
+• Maintained system (32 /). Net
+• Product program for business validation
+2014-09-01 to 2015-01-01
+Worked on a project for what kkp parks & resorts, one of the oldest and the biggest accounts of the company, migrating from a legacy PHP platform to angular. J's with node. J's, node. J's, express, angular. A web site, create a and dynamic system to a mobile product dashboard. Using the dashboard for, and migrated the entire platform, with an emphasis on assisting with the clients and the general front-end developers, github account manager and related to support: customer care of their English
+• Wrote the core system for java based web components that was used by leading the applications in the production process
+• Created a site templating and framework to manage the company web sites.

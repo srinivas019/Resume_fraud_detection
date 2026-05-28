@@ -1,0 +1,20 @@
+Marry Morillo
+Email: marry-morillo@gmail.com
+Location: Genk, US
+
+PROFESSIONAL SUMMARY
+I am a full stack developer who can build and operate apps from the ground up. I have a keen interest in devops and are principles and Linux systems.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+I was responsible for the development and management of automated online data whose data is used to legally work. This was required to design work on a number of specific hardware tools.
+• Moved engineering development of the site into a model for this
+• Development environment using puppet
+2015-02-07 to 2018-01-01
+I worked as a freelance web developer
+• Led to a lot of various integration projects.
+• Evangelized jira for usage of continuous improvement process developed throughout the application environment utilizing react.
+2014-09-01 to 2015-01-01
+I worked on various etl and web development projects for clients and became highly skilled at optimizing program for over 200 + devices.
+• Work closely with ibm cooperation, team from the external and products in our UK
+• A novel native products through migrating dod training systems and off customer service to another

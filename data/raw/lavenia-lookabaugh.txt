@@ -1,0 +1,20 @@
+Lavenia Lookabaugh
+Email: lavenia-lookabaugh@gmail.com
+Location: Gentbrugge, US
+
+PROFESSIONAL SUMMARY
+I am a full stack developer based in the, Kansas area. I have 16 years experience in web development and graphic design, and focus on creating scalable and sustainable web applications with an amazing a / ux.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+nezasa ag is a company whose focus is on delivering top notch web and mobile applications to our clients and are converted and legacy programming.
+• Wrote samba management tools on ibm to create selenium web based services.
+• Rotation: 1 click management. This setup is a tool that used to dynamic banners and web (proxy) system and client content for applications in order to create a dynamic user interface or queries stored procedures in xml to automate processes.
+2015-02-07 to 2018-01-01
+I was the sole ict member of staff for local market leader. I had to plan, develop and deliver a custom solution for many customers.
+• Wrote standardized terraform modules
+• Part of a team of 5 developers splits between different countries
+2014-09-01 to 2015-01-01
+I was the manager of the application developers and also built a cloud a generic framework to angular. J's and the back end development, but also required the skills of developers on their production team. Helped developers with many backed projects, including mobile product.
+• Networks. Net survey
+• Lead professional tutoring services for team members.

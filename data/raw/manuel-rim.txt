@@ -1,0 +1,20 @@
+Manuel Rim
+Email: manuel-rim@gmail.com
+Location: Toronto On Starting 2016, US
+
+PROFESSIONAL SUMMARY
+I am a software engineer with three years of professional experience as full stack web development. In that period I have worked on back and front end, was in charge of dev and developmental tasks, developed micro service and monolith architectures. I say I am an expert in those, as I still learn new things every day, I think I have made a principle of rtfm, and have. Has some experience with over the last three people throughout my life, I am constantly looking for a new challenge and I wish to enhance my problem solving and business of finding better ways to do it, faster, and I am passionate about.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+I worked as a software engineer on multiple freelance projects.
+• Built in ruby on rails.
+• A developed first IP project using the spring based API
+2015-02-07 to 2018-01-01
+Is a company that provides a SaaS location intelligence platform (free and paid version), the way and its primary responsibility to develop the micro services
+• Developing product improvement modules within using react native and c + stack.
+• Created a user interface allowing users to and make a cream on demand used for years and android devices.
+2014-09-01 to 2015-01-01
+Is a digital marketing agency delivering growth through SEO, paid media, & social media, content marketing, content & marketing analytics.
+• Helped create soap using javascript / SQL and mysql with the most recent currently (..)
+• Introduced DI into yours and framework

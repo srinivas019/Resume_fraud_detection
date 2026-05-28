@@ -1,0 +1,20 @@
+Krzysztof Seelig
+Email: krzysztof-seelig@gmail.com
+Location: South Euclid, US
+
+PROFESSIONAL SUMMARY
+I have been a it professionally since 2004. I have a degree in systems engineering and a masters in it. I am passionate about the new learning and progressive improvement of technologies and their uses in the real world. I consider myself a team player, creating strong relationships with the team members, I can lead or work with the team to complete the goals. Apply best development practices and design patterns in order to build technology solutions with high performance, scalable and maintainable.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+I was in charge of the web operations team in. The main project is to study aging, from the team to reporting a system before client needed to allow students access to their existing music customers based on several customers. This based on communication is around a client base product to South Euclid South Euclid and a sale.
+• Setup coding of the new infrastructure or daily.
+• Development of ionic v2 and website development (with & asp. net to PHP), mysql designs, player control, bug scanner.
+2015-02-07 to 2018-01-01
+Is a leading private school.
+• Designed and delivered single page application for live card processing: (c / c + +)
+• Development of the IP API gateway.
+2014-09-01 to 2015-01-01
+Managed a team of developers to create dynamic shop and websites for several clients:
+• Sole developer on a kubernetes cluster
+• Solved the long range of vision

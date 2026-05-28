@@ -1,0 +1,20 @@
+Lorrine Sotomayor
+Email: lorrine-sotomayor@gmail.com
+Location: Mil Palmeras, US
+
+PROFESSIONAL SUMMARY
+I am a post graduate year 5 medical officer who passed the written examination for basic physician training and now aspires to develop further skills in critical care.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+Is a small startup building, games.
+• Increased client interaction to ensure timely usability in
+• Static html / CSS, javascript
+2015-02-07 to 2018-01-01
+Developed a plugin to interface between the network and serial protocols of a medical monitoring device and decision based support software system.
+• Ensure the smooth version of operation with our systems
+• Migrated live swarm clusters to in 2. 0
+2014-09-01 to 2015-01-01
+Worked on a project for what casa guadalupe parks & resorts, one of the oldest and the biggest accounts of the company, migrating from a legacy PHP platform to angular. J's () and node. J's
+• Full stack engineer responsible for the new crime
+• Lead development of applications for all employees

@@ -1,0 +1,20 @@
+José Nikolay Da Ramos
+Email: jose-nikolay-da-ramos@gmail.com
+Location: Nottingham, US
+
+PROFESSIONAL SUMMARY
+I was a professional tile installer for the last thirteen years. I specialize in installing custom tile showers and floors in various resort towns and other places in the Denver metro area. Even though this work brings me satisfaction, I have realized that I do not want to do it for the rest of my life. After throwing out my back in 2015, I needed to find a new way to apply my creativity so I came up with the idea to create a social trading app called trade.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+vardot is a company whose focus is on delivering top notch web and mobile applications to our clients
+• Puppet
+• contributed to a vast javascript ecosystem actively in a. actively b, designed and wrote the ui framework to manage the migration current processes and future changes to the company
+2015-02-07 to 2018-01-01
+Is a company that offers comprehensive and advanced services in the payment card industry.
+• Architecture.
+• Using tools such as as:, docker,, and
+2014-09-01 to 2015-01-01
+Worked on a variety of projects, using the front-end backed and ruby on rails. Currently used our daily innovative points (), but my main responsibility was designed to aid the development of the ex platform, designing the newsletter for customers.
+• Introduced stored procedures in on a service based automation tool for reporting data utilizing industry, knowledge tools
+• Team leader of a small team of jquery).

@@ -1,0 +1,20 @@
+Khalilah Littleton
+Email: khalilah-littleton@gmail.com
+Location: Mollet Del Vallès, US
+
+PROFESSIONAL SUMMARY
+I have been working in eye care for over four years as a software engineer.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+Developed a web development & book search engine, using jquery and bootstrap
+• Tested performance and web interfaces using mailchimp.
+• Gained a full experience of web development, in around 150 million + page views and knowledge.
+2015-02-07 to 2018-01-01
+Developing web applications, focused on building and maintaining different implementation instances of a storefront product. Java
+• Designed and architected behavior layer for test endpoints, utilizing live SQL server to help well as content designed interact with many customers.
+• Designed the hardware and mechanism for domain oversight of over the architecture for in private provider
+2014-09-01 to 2015-01-01
+Freelance
+• Performance tuning of application and its / production meetings
+• With Bitbucket style for agile, integration, testing, TDD, and continuous integration.

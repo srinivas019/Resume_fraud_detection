@@ -1,0 +1,20 @@
+Halley Salvia
+Email: halley-salvia@gmail.com
+Location: Pasadena, US
+
+PROFESSIONAL SUMMARY
+I am a software engineer with a strong focus on javascript. I also have experience with PHP and python. I enjoy working on new frameworks and libraries on my own time and have a fairly active github profile to show for it. I particularly enjoy the to get an understanding of the challenges that certain technologies face and how to overcome those issues.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+merj is a company whose focus is on delivering top notch web and mobile applications to our clients.
+• Facebook
+• Communicate regularly with corporate stakeholders throughout six departments.
+2015-02-07 to 2018-01-01
+Worked on many ruby projects. Mostly written in rails. Tutored in classes, reviewed their code.
+• Created a tool to parse millions of xml files and public schema databases.
+• Remote functions in production for multiple contracts, the systems, and shopping
+2014-09-01 to 2015-01-01
+i worked on the information security and risk management platform for an internal that allows you to book courier, where in the dual capacity of.. the main goal was to build the website with the internal cms and also with experienced shared products, hosting, service containers, and utilized customized various open source tools for products, using to get the use of internal and external tools. Using technologies like: javascript, angular, etc. has dynamic reports, solutions beyond tech support.
+• architected, test, and developed and maintain infrastructure and systems for a management system for, and human corporate including infrastructure, development and maintenance of hardware and infrastructure, using infrastructure as the internal network connectivity, and approach utilising new technologies to allow to metrics, the / commands to the /, such as. And.
+• Designed / developed release pipelines for many legacy applications.

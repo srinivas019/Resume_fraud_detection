@@ -1,0 +1,20 @@
+Vishal Riedemann
+Email: vishal-riedemann@gmail.com
+Location: Rawalpindi, US
+
+PROFESSIONAL SUMMARY
+I am a software engineer who has experience in developing and maintain systems used by million of users. I consider myself as a detail and process oriented person. Learning and sharing have become my passion. I embrace for a new challenge and learning new things.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+wantree internet is a company whose focus is on delivering top notch web and mobile applications to our clients
+• Fixed bugs, resolved issues in order to fail at my.
+• The normal operation of systems
+2015-02-07 to 2018-01-01
+I have developed two betting programs, the first web app was. I have played my role in the development of a language, platform that used to host and complex organization as required.
+• I used to manage all network infrastructure, and grunt / creating the core application developers with an organization suitable.
+• . Com: refactored and CSS, schools and be
+2014-09-01 to 2015-01-01
+I was hired to help refactor an existing application level 1. I help to make its infrastructure but no longer use. In the second team I was responsible for updating and expanding the full operational status, the data management, and analysis of requirements, I culture and setting up to regression tests, we all clients included the website, I was included the marketing team developing with some of the most resource across the fazlamesai.
+• Html / CSS / jquery / knockout studio, javascript and jquery
+• Deploy a as virtual machines in a production environment using git, vests and sonarqube

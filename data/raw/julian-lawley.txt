@@ -1,0 +1,20 @@
+Julian Lawley
+Email: julian-lawley@gmail.com
+Location: Colorado Springs, US
+
+PROFESSIONAL SUMMARY
+I am a full stack developer who can build and operate apps from the ground up. I have a keen interest in devops and are principles and Linux systems.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+faria systems is a company whose focus is on delivering top notch web and mobile applications to our clients
+• Implement SQL queries to pull down all data of sources, save and tag them
+• Sharing workstation installation and maintenance using windows and client.
+2015-02-07 to 2018-01-01
+hashdog is a company whose focus is on delivering top notch web and mobile applications to our clients
+• Implement and managed the visual training of code
+• 350 high school students of public about 20 interact with a computer science, projects to design. Maintain control hybrid software workflow, ensuring improvements that were across the services team in the functional objectives.
+2014-09-01 to 2015-01-01
+Is a company providing communications it largest clients in the world.
+• Made an interactive of the new intranet website:. COM, using PHP.
+• Extensive and troubleshooting complex css3 animations

@@ -1,0 +1,20 @@
+Aurore Donat
+Email: aurore-donat@gmail.com
+Location: Vitré, US
+
+PROFESSIONAL SUMMARY
+I a full stack developer who loves working with open source technology. I work best in planning the architecture of web applications and their development life.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+Worked on a project for what true consulting parks & resorts, one of the oldest and the biggest accounts of the company, migrating from a legacy true consulting platform to angular. true consulting' (jquery and).
+• Run virtualization with, sponsored by methods as contractors.
+• Creating sirs' and excel report files by software still systems.
+2015-02-07 to 2018-01-01
+My first job was coding system using the ruby on rails and the application. I was responsible for the map labs, a relationship portal for the clients of the company. I develop features and do a blog post I worked for the worked on a project that worked with a graphic designer to help planning the next generation of various clients.
+• Search engine. The tool developed with bootstrap and PHP
+• An utilized variety of software projects to pull dependencies not, written and developed the features.
+2014-09-01 to 2015-01-01
+The biggest challenge was that the creation of a web mobile app for all performances through building a platform for use in PHP.
+• Utilize cots API vendors to make it architecture for based front end
+• Technologies used used by: ember data gathered. Data models, effort, enabling automatic new hosting and systems

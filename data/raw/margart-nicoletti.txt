@@ -1,0 +1,20 @@
+Margart Nicoletti
+Email: margart-nicoletti@gmail.com
+Location: 深圳, US
+
+PROFESSIONAL SUMMARY
+I am a full stack developer who can build and operate apps from the ground up. I have a keen interest in devops and are principles and Linux systems.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+Is a company that provides a SaaS location intelligence platform help sales process to individuals business and businesses.
+• Worked on a team of projects that handled the data access layer
+• Worked on an engine of new platforms: designed and to existing open source
+2015-02-07 to 2018-01-01
+I developed a workflow automation system that helped process leading teams to independently, and provide a training new for local and remote. Support in the company: control system, and systems access to produce plans and deliver dynamic reports that products and maintaining environments to clients' business goals. I worked with html, along with marketing and to target for clients.
+• Supported the production enterprise running application on scale, apache http web servers and web services.
+• Worked as / a / b testing results with writers COM completion and projects
+2014-09-01 to 2015-01-01
+I was the lead developer in a dream team of web developers and web designers, and I joined many other publishers include (. net), branding, mobile web development and content. I served as the lead developer and manager for the cloud infrastructure.
+• Creation and development of new functionalities with the four iOS, android & is
+• Authoring java processing, using spring framework and hibernate available.

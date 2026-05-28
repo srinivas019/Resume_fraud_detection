@@ -1,0 +1,20 @@
+Elena Toor
+Email: elena-toor@gmail.com
+Location: Sabanagrande, US
+
+PROFESSIONAL SUMMARY
+I am a software developer with experience developing scalable applications in the node. J's, j2ee and c + +. I love coding in dynamic programming languages like javascript. I have experience developing with back end frameworks like expresses and spring. I have also done extensive unit and functional testing using javascript testing frameworks like mocha and.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+
+• Built statistic display feature in angular, combining access, and existing web application (inside the bank)
+• Worked on a command line application for the chat application in test automation.
+2015-02-07 to 2018-01-01
+Is a platform that allows citizens to hold government agency directly and publicly accountable for their actions.
+• A node based on docker containers
+• Working as management of point of sale integrated software
+2014-09-01 to 2015-01-01
+Designed and implemented technology solutions for clients as Linux, epatterns, windows and software.
+• Designed and developed an advanced excel database application that used as the device screen driver, angular, and angular. J's
+• Developed a proprietary post system that both the users and in a presentation, navigate systems and their services.

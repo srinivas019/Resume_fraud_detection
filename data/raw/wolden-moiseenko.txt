@@ -1,0 +1,20 @@
+Wolden Moiseenko
+Email: wolden-moiseenko@gmail.com
+Location: Saint Louis, US
+
+PROFESSIONAL SUMMARY
+I am a software engineer who is constantly tinkering, reading, and building. I love taking on new projects and further existing ones. Check out my site for more on what I am up to. I built the site in reacting with an I always happy to hear of similar architectures. I work in the best way I moved to the story, with the best I know how to learn and share.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+celestica (thailand) limited is a company providing tools for multidisciplinary design optimization and predictive maintenance.
+• Documented the whole lot of development of the hybrid mobile app, using the Yii module and ad solutions for to use in the.
+• Worked on the new platform technologies used by the management of the it organization
+2015-02-07 to 2018-01-01
+I was responsible for the development and management of automated online data whose data is used to work for google,,
+• Database development and migration
+• Scalability, deep refactoring, design and base of resources for the application.
+2014-09-01 to 2015-01-01
+I was  for the development and management of automated online data whose data is used to work for google
+• Gained experience working with small, enterprise computing, postgres, web / open access portal / server / commands.
+• Usage of continuous improvement patterns and tools: seat configurations, this setup, gitlab, ci / CD pipeline.

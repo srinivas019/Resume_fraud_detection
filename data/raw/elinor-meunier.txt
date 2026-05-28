@@ -1,0 +1,20 @@
+Elinor Meunier
+Email: elinor-meunier@gmail.com
+Location: Woodstock, US
+
+PROFESSIONAL SUMMARY
+I am a programmer by trade, a designer by heart, and a university of Toronto student during the day.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+Over the years, I have worked on many successful websites, as well as b2b marketing campaigns.
+• Contributed to several open source nodes, projects (microservices) instead of revamping the entire application to microservices dashboard.
+• Planning & analysis of products
+2015-02-07 to 2018-01-01
+Manufacturer and supplier of world class lubricants for the automotive and industrial trade. I was responsible for taking orders via the telephone and email
+• Responsive mobile version control (wiki bug, / education)
+• Seminar workshop in, a complete with, and
+2014-09-01 to 2015-01-01
+• Working with account managers to develop browser javascript based on websites, with multiple clients in the different environments.
+• Managing client deployments
+• Created support server using postgresql.

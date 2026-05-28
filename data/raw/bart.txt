@@ -1,0 +1,20 @@
+Bart
+Email: bart@gmail.com
+Location: Paris, US
+
+PROFESSIONAL SUMMARY
+I am a full stacking web developer who loves working with open source technology. I work best in planning the architecture of java applications and their development life. I also love to get the community involved and have had much experience with building and organizing large open source groups.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+Is a platform that allows citizens to hold government agency directly and publicly accountable for their actions.
+• Teach a new team of people, with flexible, and workflows to ensure the results are faster
+• Using Linq to querying entities, xml configuration, introduction of oracle, database, and other web open source technologies.
+2015-02-07 to 2018-01-01
+Is a company that offers comprehensive and advanced services in the payment card industry.
+• Integrate parsing millions of multiple traffic search on one of Joomla sites.
+• Involved in the redesign of the print module / using Scala.
+2014-09-01 to 2015-01-01
+Development of web application for the management of the learning up spaces.
+• Built go templates, and site functionality for of interest
+• Created python scripts to analyze log and generate reports from a customer between http live servers (/)

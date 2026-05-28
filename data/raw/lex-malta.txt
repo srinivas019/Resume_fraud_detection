@@ -1,0 +1,20 @@
+Lex Malta
+Email: lex-malta@gmail.com
+Location: Pune, US
+
+PROFESSIONAL SUMMARY
+I am a software developer with experience developing scalable applications in the node. J's, j2ee and c + +. I love coding in dynamic programming languages like javascript. I have experience developing with back end frameworks like expresses and spring. I have also done extensive unit and functional testing using javascript testing frameworks like mocha and.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+Is a company that offers comprehensive and advanced services in the payment card industry.
+• Angular 2. 0.
+• Quickly ramped up on and contributed to the team
+2015-02-07 to 2018-01-01
+Is a social network for high school that give them what is happening around you feel and home delivery.
+• Write maintainable and performant javascript applications on desktop
+• Javascript /
+2014-09-01 to 2015-01-01
+I was responsible for the development and management of automated online data whose data has very designed the first platform for complete their product called ibm (google engine)
+• Integrated data into the warehouse setting using the web framework to use the repository pattern and templates
+• Platform design

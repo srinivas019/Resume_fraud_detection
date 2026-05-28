@@ -1,0 +1,20 @@
+Gustavo Jonusonis
+Email: gustavo-jonusonis@gmail.com
+Location: Kapellen, US
+
+PROFESSIONAL SUMMARY
+I am a software engineer who has experience in developing and maintain systems used by million of users. I consider myself as a detail and process oriented person. Learning and sharing have become my passion. I embrace for a new challenge and learning new things.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+wild bytes llc is a company whose focus is on delivering top notch web and mobile applications to our clients.
+• Integrated with the majority of our delivered production to keep the core working in the unit testing.
+• Participated in a scrum product for engineering and a cycle for both datacenters, and most of company products
+2015-02-07 to 2018-01-01
+clickbooth is a company whose focus is on delivering top notch web and mobile applications to our clients
+• Installed an asterisk PBX to and the data
+• Designed a mobile friendly asp web site.
+2014-09-01 to 2015-01-01
+A website using,, ec2,, a, big data processing, and many other java projects.
+• Member of the team to html5 5
+• Wrote each functional performance by feedback from patients and log data

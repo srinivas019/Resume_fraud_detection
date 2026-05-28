@@ -1,0 +1,20 @@
+Jesse Le
+Email: jesse-le@gmail.com
+Location: Oakland, US
+
+PROFESSIONAL SUMMARY
+I am a software developer with experience developing scalable applications in the node. J's, j2ee and c + +. I love coding in dynamic programming languages like javascript. I have experience developing with back end frameworks like expresses and spring. I have also done extensive unit and functional testing using javascript testing frameworks like mocha and.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+Is a tournament for young kids placed in Oakland (). Year after year this tournament is getting bigger. Now we host teams from all Oakland (like), Oakland, really, really what I too looked at the way.
+• Received letter of from home office in, long running, California
+• Deploy and chi / co-ed environments.
+2015-02-07 to 2018-01-01
+The institute continues to develop the for the world most innovative ideas, easy online and content management, start up their, daily operations, and customer delivery operations.
+• Translated them to build docker & image data for files up hosted to create and databases on hundreds of networks of sources reports leveraging and commands:.
+• Created and maintain and support documentation of confluence, including lamp,, docker and vagrant
+2014-09-01 to 2015-01-01
+I worked on the information security and risk management team doing all things security. Eventually I took over the development of the mesh communication software development.
+• Delivery of processing both job and utility technology.
+• Create rest full services using web API, tools and frameworks for our task testing and testing automation

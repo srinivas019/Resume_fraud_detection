@@ -1,0 +1,20 @@
+Loretta Belmont
+Email: loretta-belmont@gmail.com
+Location: Neuss, US
+
+PROFESSIONAL SUMMARY
+I a full stack developer who loves working with open source technology. I work best in planning the architecture of web applications and their development life.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+devotegroup limited is a company whose focus is on delivering top notch web and mobile applications to our clients
+• Development and application test case framework
+• Decrease office hours
+2015-02-07 to 2018-01-01
+Is a startup company that streamlines checkout and creates a shopping experience by delivering loyalty, and payment with a single touch.
+• Developed tools to standardize and simplify common deployment suite
+• Interfaced with website with (technologies, including Drupal, WordPress, Joomla, Drupal, etc..
+2014-09-01 to 2015-01-01
+The biggest challenge was that the creation of a web marketing platform with the use of the groovy language, and scrum.
+• Monitoring EU, us international, pricing, content, base image recognition and generation
+• Metrics analysis & infrastructure

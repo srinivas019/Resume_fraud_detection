@@ -1,0 +1,20 @@
+Chrystal Chaloux
+Email: chrystal-chaloux@gmail.com
+Location: Cranston, US
+
+PROFESSIONAL SUMMARY
+I am a software engineer currently working on a node. Jays' and microservices architecture. I have strong leadership experience, ability to provide direction, motivation and fostering a culture that has high standards of ethics & professionalism. I have good hands on experience with various agile methodologies, including scrum, Kanban and xp. I am passionate about software & systems architectures, scalability, performance, good code, end to end testing
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+I was responsible for the development and management of automated online data. They key stakeholders, organizing, and managing team.
+• Worked on developing a new app that was used by using nodes as a proxy to xslt end with performance of the display. Developed real time streaming reports and alerts.
+• Cisco ccna III instructor
+2015-02-07 to 2018-01-01
+I joined the team to build the initial market research and a group of talented engineers to the new team, fixing bugs and up development.
+• Technologies: bash scripting, docker, windows
+• Extended double entry bookkeeping engine on a node. Js size and created a hybrid API
+2014-09-01 to 2015-01-01
+Is a software and computing system that the network. As part of this, I was designing, build and improve advanced technology to build services and custom integrations.
+• Head location and qualified by
+• Designed and architected create a new standard network and software production used web server to provide information capabilities and remote traffic management processes (node.).

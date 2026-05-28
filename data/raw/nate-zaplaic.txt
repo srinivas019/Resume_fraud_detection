@@ -1,0 +1,20 @@
+Nate Zaplaic
+Email: nate-zaplaic@gmail.com
+Location: Renton, US
+
+PROFESSIONAL SUMMARY
+I am a full stacking web developer who loves working with open source technology. I work best in planning the architecture of web applications and their development life. I also love to work with Jason, API development with or.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+Is a company founded in, which provide innovative solutions designed to address everyday communication and business clients. kobiton products are based on services to help companies assist in developing countries across Renton Renton, a vision that supports the software is platform.
+• Deploying the container, machine, software and test environment
+• Ms SQL server administration, system database setup
+2015-02-07 to 2018-01-01
+Working as a developer on the team, supporting academic management systems, based on procurement responsibilities
+• Evaluated websites on various platforms
+• Development and release of the agile process (sdlc) in tfs
+2014-09-01 to 2015-01-01
+Is a software development workshop with a focus on RFID and product tracking.
+• Produced automated pdf reporting and daily by enterprise azure cloud platform.
+• Developed a dynamic of survey system and user data based in visual studio radio.

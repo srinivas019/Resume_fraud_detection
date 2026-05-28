@@ -1,0 +1,20 @@
+Kathrine Lovejoy
+Email: kathrine-lovejoy@gmail.com
+Location: Sabanagrande, US
+
+PROFESSIONAL SUMMARY
+I am a full stack developer who can build and operate apps from the ground up. I have a keen interest in devops and are principles and Linux systems.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+Is a leading private school.
+• Signal fixes
+• Multiple Perl / jquery / html5, javascript, jquery, apache.
+2015-02-07 to 2018-01-01
+I worked on the information security and risk management team doing all things security. Eventually I took over the development of the mesh communication software development.
+• Worked on shell scripting
+• Built an automated system functional tests for android / using the API
+2014-09-01 to 2015-01-01
+Is a leading private school.
+• Experience with design and development of the finance department, making it
+• Dealt with live data issues.

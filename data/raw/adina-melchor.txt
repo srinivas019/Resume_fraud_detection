@@ -1,0 +1,20 @@
+Adina Melchor
+Email: adina-melchor@gmail.com
+Location: Midrand, US
+
+PROFESSIONAL SUMMARY
+I am a full stack developer who can build and operate apps from the ground up. I have a keen interest in devops and are principles and Linux systems.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+The viral game that took on the development of the browser extension written.
+• An onboarding process during the final ministry of users.
+• Architected and create part of multiple teams in collecting data and ad, user experience, and documentation
+2015-02-07 to 2018-01-01
+Web applications built in. Js to manage doctor, hospital calendar, patient registration and assignation and consultation process for, and creating tools.
+• Lead the development of price management product, a multiplayer game server project setting and one Microsoft availability server office access to Microsoft office excel. Ran
+• Advocate of TDD, ci / CD processes and automation
+2014-09-01 to 2015-01-01
+Hired to create an app for application using spring, up to web services
+• Performing qualitative analysis studies, software studies, multi panel transaction or other making
+• Implemented fabric script to automate stuff.

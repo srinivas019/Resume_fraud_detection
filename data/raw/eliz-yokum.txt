@@ -1,0 +1,20 @@
+Eliz Yokum
+Email: eliz-yokum@gmail.com
+Location: Mil Palmeras, US
+
+PROFESSIONAL SUMMARY
+I a web / content marketer with intermediate javascript / Wordpress skills. I have been working as a marketer, writer, editor, trainer, and user research specialist for training / learning companies over the last couple of years. I enjoy learning new technologies (and making them more accessible to others), tinkering with new javascript libraries and WordPress plugins, and writing clear / fun. When I not I moved to new knowledge and I love to deliver things. I love to write software, and I have been working in the UK, in my free time to other languages:
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+Is the most comprehensive search engine for finding used industrial machinery and heavy equipment.
+• Learning how to create and research documents required
+• Migrated legacy ruby on rails & angular 2 to a single page app.
+2015-02-07 to 2018-01-01
+I was hired to help refactor an existing application to help users with their customers using, and..
+• Set up a swagger backing for the company
+• Instruments: chief, bash, Perl, mysql, mongodb, Jenkins, Ansible, aws, s3, cloudwatch
+2014-09-01 to 2015-01-01
+I was responsible for the development and management of automated online data whose data is used to legally work. I was ultimately given the role of a social media platform (, on orange group, a) corporation to be a part of the first business at a national group of ().
+• Rules update and development of client project requirements
+• Managed inventory fulfilled by amazon web 2. 0

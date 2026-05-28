@@ -1,0 +1,20 @@
+Neil Paddock
+Email: neil-paddock@gmail.com
+Location: West Lafayette, US
+
+PROFESSIONAL SUMMARY
+I am a senior web developer (full stack) with 4 + experiences. I am working in ruby on rails, angularjs, javascript, twitter bootstrap, and angular. I am also practicing reacts and.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+Is a marketing automation firm in the mortgage industry.
+• Built on new onboarding process, and with the utility's website
+• Batch analysis of user tracking and requirements, an fair process, including volume discount royalty programs for partners worldwide.
+2015-02-07 to 2018-01-01
+• Software optimization on a product for remote desktop and web applications.
+• Docker / open shift / k8s
+• Built several out data screens that are as most of large of recent city (4) Cdn selection, in a deployment process, of delivery.
+2014-09-01 to 2015-01-01
+My first job was coding system using the ruby on rails and the application. I was responsible for the day to day operations of the tickets and provide the tools that they need to work in the mobile app.
+• Implemented unit tests and code coverage
+• Moving an community leader awards in private and sales

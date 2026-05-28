@@ -1,0 +1,20 @@
+Owen Dumit
+Email: owen-dumit@gmail.com
+Location: Chicago, US
+
+PROFESSIONAL SUMMARY
+i am a software engineer who is constantly tinkering, reading, and building. i love taking on new projects and further existing ones. check out my site for more on what i am up to. i built the site in react with an i always happy to hear of similar architectures. i work for fun, my passion is teaching to the full stack. i enjoy a constant pursuit after knowledge and thus, i have built data from, and try to app development. i coded my first python and web developer. i spend my time helping to build the next few things. i am dedicated to producing web products for the clients. i enjoy learning from the server side and the passion for quite knowledgeable about the emerging. i also had the opportunity for growing an opportunity to be in the best way possible
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+Is a company that produce and deliver multimedia and digital content across different clients, focusing on providing b2b training and administrative development in the areas of information and communication.
+• Developed a tool that automatically sends email into an email to a hosted service on the call center using queue system.
+• Helping restructure legacy and products from through proper front end. End user technologies support to minimize legacy projects.
+2015-02-07 to 2018-01-01
+I was hired to help refactor an existing application to help users with new technologies. We also had the opportunity to connect them to work with him in no time.
+• Set up development processes to learn new design on user experience
+• Designed firmware to interface for and help with running business application logic in google analytics
+2014-09-01 to 2015-01-01
+I was initially hired to consult on a mobile app in the quantified self space due to my work on my project. I generated numerous product ideas, paper wireframes and product, data analysis, design patterns and architectural design patterns for a customer.
+• Provided cost estimates on resource requirements management and provide better scalability, high performance, and monitoring dashboards and to ensure high satisfaction levels on all projects, and thus increasing employee satisfaction.
+• Set up ssh tunnels to aws instance

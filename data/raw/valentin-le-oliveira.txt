@@ -1,0 +1,20 @@
+Valentin Le Oliveira
+Email: valentin-le-oliveira@gmail.com
+Location: Tampa, US
+
+PROFESSIONAL SUMMARY
+I am a software developer with experience developing scalable applications in the node. J's, j2ee and c + +. I love coding in dynamic programming languages like javascript. I have experience developing with back end frameworks like expresses and spring. I have also done extensive unit and functional testing using javascript testing frameworks like mocha and.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+software is a company whose focus is on delivering top notch web and mobile applications to our clients
+• Taught an disciplinary team of 10 students to develop microservices
+• implémentation on Cdn des among flagship.
+2015-02-07 to 2018-01-01
+international first emergency (relief agency) is a company whose focus is on delivering top notch web and mobile applications to our clients
+• (Javascript, HTML, CSS, jquery json, Ajax, SQL) queries used, javascript, and spring (sap).
+• Got to know startup.
+2014-09-01 to 2015-01-01
+Is a company that produce and deliver multimedia and digital content across different clients, focusing on the medical industry
+• IOS application development or.
+• Mentored new staff on our and operations for the use of. My net open source technologies.

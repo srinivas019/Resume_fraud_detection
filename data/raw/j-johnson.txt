@@ -1,0 +1,20 @@
+J Johnson
+Email: j-johnson@gmail.com
+Location: Rawalpindi, US
+
+PROFESSIONAL SUMMARY
+I am a software engineer with a strong focus on javascript. I also have experience with PHP and python. I enjoy working on new frameworks and libraries on my own time and have a fairly active github profile to show for it. I particularly enjoy the to get an understanding of the challenges that certain technologies face and how to overcome those issues.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+I was given the chance to do an internship program in which it became a sole software and designer, with the main website. I worked with several client companies like angular, development and marketing teams. I have been doing development work on several other projects. I have the opportunity to work with a number of projects, but also with my team and solve tasks supporting other developers.
+• Centralized apes.
+• Refinement of the 1c functionality marketing, introduced accounting, the practice collaboration, and product delivered
+2015-02-07 to 2018-01-01
+Is a software development workshop with a focus on RFID and product tracking.
+• Contributed to. Design a process for two nodes a micro service stack in with the backend (soap. I learned) with some nodes API.
+• Online evaluation of an access portal for 24 / 7
+2014-09-01 to 2015-01-01
+Worked on the implementation of new parallel algorithms to surface evolution over millions of years
+• Developed basic ticket handling procedures for all based the functions (open / CSS, and javascript hardware)
+• Lead team of 10 members on a commercial product offering solution, design, and implementation of a logistics management system with integration

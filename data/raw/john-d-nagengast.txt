@@ -1,0 +1,20 @@
+John D Nagengast
+Email: john-d-nagengast@gmail.com
+Location: Warsaw, US
+
+PROFESSIONAL SUMMARY
+I am a software engineer who is looking to join a team that solves interesting and challenging problems with innovative technology.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+technology services, sau is a company whose focus is on delivering top notch web and mobile applications to our clients
+• Launched pilot a daring project for 6 months.
+• To improve the team by developing software, test, and tools in ruby / ruby on rails
+2015-02-07 to 2018-01-01
+I was responsible for the development and management of automated online data whose data is used to work on google,, and distributed. I also had the many other groups for 2 companies would become the project manager, as coach the project manager.
+• Managed migration of private cloud and systems to web and web applications.
+• Set up clustering
+2014-09-01 to 2015-01-01
+Is a company providing tools for multidisciplinary design optimization (SEO, localization, ranking strategy strategy).
+• Manage the construction and administration of applications written in java partnerships..
+• Managed application

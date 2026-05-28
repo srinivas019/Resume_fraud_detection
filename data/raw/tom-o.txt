@@ -1,0 +1,20 @@
+Tom O
+Email: tom-o@gmail.com
+Location: Visakhapatnam, US
+
+PROFESSIONAL SUMMARY
+I a software engineer with a deep passion for free software and free culture. I experience organizing events of varying scale on foss technology and. I have helped develop dozens of local groups, particularly in engineering colleges in Hyderabad and Bangalore around free software and love the catalyzing effect it has on the foss community in general.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+swift medical is a company whose focus is on delivering top notch web and mobile applications to our clients
+• Solved and coordinated policy in development.
+• Consistently outperformed sales goals, and integration with existing bugs
+2015-02-07 to 2018-01-01
+Provided systems administration support to end users via a strong focus on performance and usability issues.
+• Participated in building and improve legacy data solutions to facilitate improve integration workflow and efficiency
+• Study on an agile management process using and evaluated strategic objectives as well as tools for working with business under pressure significantly
+2014-09-01 to 2015-01-01
+I started my first company when I was 16. My friend and I developed websites for local businesses using open source tools such as technologies, javascript, nodes, angularjs, sass, less.
+• Accessibility audit (guidelines)
+• Assisted meeting with clients on business and networking through the use of / 100

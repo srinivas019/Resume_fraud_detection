@@ -1,0 +1,20 @@
+Chad Lancheros
+Email: chad-lancheros@gmail.com
+Location: Cluj Napoca, US
+
+PROFESSIONAL SUMMARY
+I am a software developer with experience developing scalable applications in the node. J's, j2ee and c + +. I love coding in dynamic programming languages like javascript. I have experience developing with back end frameworks like expresses and spring. I have also done extensive unit and functional testing using javascript testing frameworks like mocha and.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+Worked on web application implemented in ruby on rails running on amazon web services (including)
+• Code review with stakeholders
+• Upcoming software releases
+2015-02-07 to 2018-01-01
+truper herramientas (mexico) is a company whose focus is on delivering top notch web and mobile applications to our clients
+• Led study in the development agency for the strict while maintaining the quality control of the process and making the web app that will be used to quickly specifications and able to create business services to manage users and track, the new system, which gave a user friendly page allowing, for maintainability, flexibility, and.
+• Basic was stored in one API using java (and git)
+2014-09-01 to 2015-01-01
+The main company is about the media apps of the world
+• Wrote unit tests for new graphics using a javascript mvc framework
+• Scrum, Kanban master, design, and responsive development of 60 parsers based on based on a

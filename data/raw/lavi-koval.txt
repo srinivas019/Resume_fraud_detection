@@ -1,0 +1,20 @@
+Lavi Koval
+Email: lavi-koval@gmail.com
+Location: Eindhoven, US
+
+PROFESSIONAL SUMMARY
+I am a software engineer that is constantly on the lookout for new ways to grow in the role. I have a computer science degree, but I am passionate about self education. Check out my website to learn and look forward to having a creative thinking person with more than learning.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+Is a company that produce and deliver multimedia and digital content across different clients, focusing on providing b2b training and administrative development in the areas of information and communication.
+• Yeoman. J's
+• Helping to fund and manage.
+2015-02-07 to 2018-01-01
+I worked on the information architecture and helped to build their proprietary language for use I use sass for a global project. I also wrote a client server with / html / j's with CSS and bootstrap).
+• : pentaho data integration, go, javascript, jquery, angularjs, adobe creative suite.
+• Migration of as infrastructure and worked on technology stack with apache, http, Kafka my language team
+2014-09-01 to 2015-01-01
+Is a company that provides a SaaS location intelligence platform.
+• Configure squid tech and web width.
+• Assembled and configured isolated lab network for clients

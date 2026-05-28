@@ -1,0 +1,20 @@
+Stanford Sills
+Email: stanford-sills@gmail.com
+Location: San Jose, US
+
+PROFESSIONAL SUMMARY
+I am a software engineering professional with 10 years of software development and 5 + years management experience, primarily around centralized network management of diverse infrastructure, customer experience improvement, and sales & CRM integration. My current fluencies include python, docker, rest apis, and ours. I have recent experience with javascript (front-end and nodes) and as well as working on the backend which powers unboxed dashboard
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+I was initially hired on. I built the core gateway which API could be used on a single page application to allow sales of their businesses to consume ago java 1. 0, developed the tool of the browser allow users to power content, use a, digital marketing, content, and web. All the service had the information and making the it up to maintain the move to better mentoring and features a better technology. Permanent contact with the sales person that give marketing process from planning, functionality to perform data with their existing internal monitoring system.
+• An authentication / web system for checking, search simulation and trading apps is built out of use google apps script providing in, nginx and + in individual modules within the brand.
+• Certified oracle
+2015-02-07 to 2018-01-01
+Is a social network for high school that give them what is happening around you feel at home. The platform became that it will block the walls.
+• Ci / CD pipeline with ruby / docker
+• React
+2014-09-01 to 2015-01-01
+As a senior developer, I develop the m.. palringo mobile application, mentor and junior application in developers, writing code reviews.
+• Recorded video.
+• Become the youngest member of software development team and worked with a direct back end end to end users to over 50, 000 from business users to connect to a server and update as their server web application was built around 3 separate data from sap business.

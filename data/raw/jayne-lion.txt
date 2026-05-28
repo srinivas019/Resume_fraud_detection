@@ -1,0 +1,20 @@
+Jayne Lion
+Email: jayne-lion@gmail.com
+Location: Salt Lake City, US
+
+PROFESSIONAL SUMMARY
+I am a front end developer, who takes pride in the work that I do. Being able to design and develop apps is rewarding and creatively satisfying.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+An open source project that want to help schools with the education of students and provide the schools all the necessary tools for an online fundraising platform.
+• Setup a Linux environment for utilizing many developers, an application to agile migration.
+• Helped with high performing risk in ways of for national to country batch functions in an agile process
+2015-02-07 to 2018-01-01
+I 40 pieces of Spanish in order to be published in an educational.
+• 
+• Wrote, maintained, and enhanced the control system (python and) to improve the measure overall performance, quality assurance, and application.
+2014-09-01 to 2015-01-01
+Responsible for r & d topics related to mobile wallets / mobile payment / smart cards and all kinds of NFC enabled devices. Developed prototypes for different events and trials.
+• Deployment and maintenance of hundreds of enterprises ec2 connections to branch
+• Manage geographic redundant Cisco environments utilizing VMware system and Linux administration tools.

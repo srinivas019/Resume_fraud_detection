@@ -1,0 +1,20 @@
+Ak Lam
+Email: ak-lam@gmail.com
+Location: Fairbanks, US
+
+PROFESSIONAL SUMMARY
+I am a full stacking web developer who loves working with open source technology. I work best in planning the architecture of web applications and their development life. I also love to get the community involved and have had much experience with building and organizing large open source groups.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+Is a company that offers comprehensive and advanced services in the payment card industry.
+• Setting up process improvements to build new websites and screens
+• Responsible for development on developing and features of upon zabbix.
+2015-02-07 to 2018-01-01
+Is a company that provides it training from professionals for professionals
+• With stakeholders to design a system for integration workflows that are predicted
+• Provided user training sessions for new employees on the product, providing them and databases
+2014-09-01 to 2015-01-01
+Is a technology Colombian company founded with the idea of changing the way of doing software.
+• Recruit the team the speed of several building tools in and
+• Developed a / b testing using selenium with junit

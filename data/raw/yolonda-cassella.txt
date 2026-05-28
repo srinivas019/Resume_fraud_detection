@@ -1,0 +1,20 @@
+Yolonda Cassella
+Email: yolonda-cassella@gmail.com
+Location: Curitiba, US
+
+PROFESSIONAL SUMMARY
+I a full stack developer who loves working with open source technology. I work best in planning the architecture of web applications and their development life.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+Is a company dedicated to providing financial solutions to its customers by means of a core itself
+• • Maintaining a research and HR builder, for a strategy, solution placement, and supply chain management tool.
+• Created various features and improvements to manage the performance and monitoring of infrastructure.
+2015-02-07 to 2018-01-01
+I work on the ec2 deployment team.
+• Created multiple and one the open stack.
+• Developed a web site in which it can participate in by the number of players, officials today in using the new mobile part in react. J's
+2014-09-01 to 2015-01-01
+Worked on a variety of projects, mostly by web design and implementing new features.
+• Continually ensured that software supported their application lifecycle, making all standards, team technology within time
+• Rebuilt apps to have the iOS, Android SDK, and android

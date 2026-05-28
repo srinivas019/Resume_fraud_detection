@@ -1,0 +1,20 @@
+Daxter Ryan
+Email: daxter-ryan@gmail.com
+Location: Mountain View, US
+
+PROFESSIONAL SUMMARY
+I am a full stacking web developer who can build apps from the ground up. I worked mostly at startups so I am used to wearing many hats. I am a very product focussed developer who practices, user feedback first and. I generally very flexible when investigating new roles.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+Built a platform to manage & track the movements and violations of students. (Ask for credentials for demo)
+• Pager duty Nagios infrastructure within Jenkins, docker, ci / CD, and selenium + later transitioned when the manual process to an existing enterprise third result revenue.
+• Created customer service for friendly environment.
+2015-02-07 to 2018-01-01
+Software engineer focus on javascript development as a great contributor to team with other developers and we are our client administration. Worked at any develops many new applications for our clients.
+• Contributed to the development of the API
+• Work with a iOS development intern
+2014-09-01 to 2015-01-01
+Is a platform that allows citizens to hold government agency directly and publicly accountable for their actions.
+• Identified vendor accounts and procedures, conduct analysis and estimation, work with hiring, technical staff and client stakeholders
+• Node

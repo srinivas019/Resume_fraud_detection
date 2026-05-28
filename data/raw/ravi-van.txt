@@ -1,0 +1,20 @@
+Ravi Van
+Email: ravi-van@gmail.com
+Location: 深圳市, US
+
+PROFESSIONAL SUMMARY
+I am a software engineer with a particular interest in making things simple and automating daily tasks. I try to keep up with security and best practices, and am always looking for new things to learn.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+Is a company that provides comprehensive and advanced custom solutions tailored solutions for clients.
+• A project built a number of different web components across multiple sites.
+• Programmed and research on the web page with legacy ruby on rail technology stack.
+2015-02-07 to 2018-01-01
+Is a software development workshop with a focus on RFID and product tracking.
+• Increased revenue by completing the collection and processing manual processing.
+• Drafted by sheets, purchasing and compliance department with a wide variety of projects
+2014-09-01 to 2015-01-01
+I was responsible for the development and management of automated online data whose data is used to legally work. I was ultimately given the role of a social media platform (, on orange group, a) before graduation, and also part of an application development environments in both a large marketing and organization, setting up the a custom java internal platform
+• Worked with test to develop new features and web apps built
+• Development of energy portal for clients

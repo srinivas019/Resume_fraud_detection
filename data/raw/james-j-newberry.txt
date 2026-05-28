@@ -1,0 +1,20 @@
+James J Newberry
+Email: james-j-newberry@gmail.com
+Location: Greenbay, US
+
+PROFESSIONAL SUMMARY
+I am a software engineering professional with 10 years of software development and 5 + years management experience, primarily around centralized network management of diverse infrastructure, customer experience improvement, and sales & CRM integration. My current fluencies include python, docker, rest apis, and ours. I have recent experience with javascript (front-end and nodes) and as well as working on backend applications (HTML, CSS), javascript (es6), react. J's), react. J's).
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+I worked on windows software that time to the companies various projects
+• Linux severs administration on an Ubuntu server
+• c3 award winner (June 2013).
+2015-02-07 to 2018-01-01
+I was the lead developer in a dream team of web developers and designers, and web apps
+• Transitioned a team from visual 3 to 2. 7. 0
+• Telecom and software vendor (intranet on Microsoft access) and management system integration () project
+2014-09-01 to 2015-01-01
+Worked on a project for what , a parks & resorts, one of the oldest and the biggest accounts of the company, migrating from a legacy , a platform to angular. J's (with jquery and).
+• Converted procedural legacy code
+• Built his mapping and project management to track inventory system report on progress over 50 million agents.

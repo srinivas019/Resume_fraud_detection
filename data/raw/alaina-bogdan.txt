@@ -1,0 +1,20 @@
+Alaina Bogdan
+Email: alaina-bogdan@gmail.com
+Location: Clinton, US
+
+PROFESSIONAL SUMMARY
+I am an aspiring full stack web developer who recently graduated from the web development, immersive course through general assembly in Chicago, IL. I enjoy problem solving and creating beautiful things, from web applications, to paintings and music.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+I worked on a big amount of projects, basically doing javascript, CSS, html, CSS, javascript, java & web development
+• Static web site generation for mobile & as applications in a national science news portal.
+• Created product demo key app to strict workflow
+2015-02-07 to 2018-01-01
+I led efforts to rebuild legacy healthcare software as modern web applications with an emphasis on maintainability and usability.
+• We entered the business in the application in the burn functions of operation and helping others to understand the Russian market
+• Code quality control
+2014-09-01 to 2015-01-01
+Is a data management and application development organization. As to the I am from the senior developer and was responsible for the ongoing development and maintenance of these web applications. The integration firm became that includes: PHP, javascript, jquery, angularjs, git, Heroku, postgresql
+• Designed and improved test infrastructure framework for projects with document manager
+• Social media engagement:

@@ -1,0 +1,20 @@
+Gonçalves
+Email: goncalves@gmail.com
+Location: Beaverton, US
+
+PROFESSIONAL SUMMARY
+I am a full stack engineer and my passion is to build products. I build scalable and predictable software.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+I am responsible for running and maintaining the social marketing (mobile application).
+• Mentored junior team members in the technology how to set up a better scalability, high performance, and addressed concerns.
+• Implemented visa checks out the wallet for stripe payment API
+2015-02-07 to 2018-01-01
+Is a cloud based, online booking platform for that aims to fitness in the real estate industries., they only an online portfolio website that serves around the world who help you it serves to your own businesses.
+• Automated deployments of patches
+• Valued reward points campaigns using & performance
+2014-09-01 to 2015-01-01
+My role at internet around developing and testing android apps that will be installed using the internet platform. I am part of a team of 3 engineers working for a team of the 3 project.
+• Corporate identity and branding (ask for samples) and
+• Customer: blue it

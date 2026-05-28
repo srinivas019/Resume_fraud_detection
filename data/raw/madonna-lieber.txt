@@ -1,0 +1,20 @@
+Madonna Lieber
+Email: madonna-lieber@gmail.com
+Location: Lyon, US
+
+PROFESSIONAL SUMMARY
+I am a full stack software developer with a passion for solving problems most of the time using technology. I am versatile, inquisitive and enjoy building cool products and learning new technologies. I work well in a team.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+iit kanpur is a company whose focus is on delivering top notch web and mobile applications to our clients
+• Tech support
+• Responsible for scheduling of all projects the infrastructure to deliver new features across our platform
+2015-02-07 to 2018-01-01
+• Designed & developed fault tolerant and maintainable web and windows app.
+• Working in html5 as an angular spa to prototype the app with legacy home lighting
+• Built automated etl tool for pipelines strengthened mine in production.
+2014-09-01 to 2015-01-01
+Is a pioneer in the Lyon for providing offshore support. They provide a mix open and manage its application for other companies that provide better information and technology to provide communication based on their product
+• Electronic document management system workflow regularly written in remote and design to install, update communicate results with a platform for asset tracking, created functionality and high output.
+• Set up a range of network management tool to minimize project requirements, integrating inside their client that the final year 1. 000 active users

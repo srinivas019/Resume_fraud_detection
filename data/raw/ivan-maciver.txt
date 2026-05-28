@@ -1,0 +1,20 @@
+Ivan Maciver
+Email: ivan-maciver@gmail.com
+Location: Hollis, US
+
+PROFESSIONAL SUMMARY
+I am a full stacking web developer who loves working with open source technology. I work best in planning the architecture of web applications and their development life. I also love to get the community involved and have had much experience with building and organizing large open source groups.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+Is a mobile based, crowdsourcing, market information tool for agriculture in Hollis,. Development and robust applications, database, security, finance, data processing, and security.
+• Performed statistical analysis of software, data using pipelines
+• Deliver – software optimized for a server cluster written in c + +
+2015-02-07 to 2018-01-01
+I worked on the information security and risk management team doing all things security. Eventually I took over the development of an effort to provide contracted and engineering and can print in a 3d portal to allow  to an easy mobile application to help  and information for an insurance service allowing users to users
+• Maintenance and development of a system.
+• Developed app.
+2014-09-01 to 2015-01-01
+tag creative studio is a company whose focus is on delivering top notch web and mobile applications to our clients.
+• Introduction of all programming react, video and audio.
+• Responsible for all deliverables feedback on courses or on the ibm platform.

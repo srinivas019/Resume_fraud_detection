@@ -1,0 +1,20 @@
+Tyler Peters
+Email: tyler-peters@gmail.com
+Location: Aalborg Øst, US
+
+PROFESSIONAL SUMMARY
+I am a full stack developer who can build services. I am a very product focused developer who prioritizes user feedback first. Even though I have been working at the same company, but I have various experience from lots of projects. I am generally very flexible when investigating new roles.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+Developed front-end and backend for a case search module using ruby on rails (backend).
+• Built a script to generate bill images automatically with a random number of that of progress users
+• 使用 framework python (Django)
+2015-02-07 to 2018-01-01
+I worked as a member of a multidisciplinary team developing advanced diagnostic and prognostic solutions for most military applications.
+• Managed team members
+• Consult and systems for scripting and best operational for related customer needs, including liaising with external suppliers () and technical support staff.
+2014-09-01 to 2015-01-01
+Worked with a team of four developers. Created spring appears, enabling third parties to request vehicle history and information used. Technologies: go, PHP, mysql,,, selenium, bash, chrome, webdriver,, git, Jura, and always, grunt, reddish
+• Lead builds of some encryption features four main products.
+• Developed quality assurance plan for a library.

@@ -1,0 +1,20 @@
+Neal Carpino
+Email: neal-carpino@gmail.com
+Location: 深圳市, US
+
+PROFESSIONAL SUMMARY
+I am a full stacking web developer who can build apps from the ground up. I worked mostly at startups so I am used to wearing many hats. I am a very product focussed developer. I am a very product focussed developer who practices, user feedback first and. I generally very flexible when investigating new roles. I believe in perfection and excellence. And that software is the best at the forefront of user engagement and interaction design.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+Is a technology company that builds innovative tech for advertising
+• Completely overhauled development systems
+• — () For a job tracking
+2015-02-07 to 2018-01-01
+Worked on a project for what mira telecom parks & resorts, one of the oldest and the biggest accounts of the company, migrating from a legacy mira telecom platform to angular. mira telecom' (jquery) and wrote restful api's (spring).
+• Utilized on digital html, builder, and various complex input systems
+• Developed custom administrative tool for (a so integration).
+2014-09-01 to 2015-01-01
+hubert burda media is a company whose focus is on delivering top notch web and mobile applications to our clients
+• Recruited and interviewed prospective adult volunteers.
+• Contributed to open source truffle tooling frameworks.

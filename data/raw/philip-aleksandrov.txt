@@ -1,0 +1,20 @@
+Philip Aleksandrov
+Email: philip-aleksandrov@gmail.com
+Location: Cartago, US
+
+PROFESSIONAL SUMMARY
+I am a software developer with experience developing scalable applications in the node. J's, j2ee and c + +. I love coding in dynamic programming languages like javascript. I have experience developing with back end frameworks like expresses and spring. I have also done extensive unit and functional testing using javascript testing frameworks like mocha and.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+miss magic valley is a company whose focus is on delivering top notch web and mobile applications to our clients
+• Quick diagnosis and repair, both and broadcasts some of large scale
+• Network technology requirements are used satellite VMware virtualization, oracle, Weblogic, hibernate, oracle, hibernate stored, xml, ibm software.
+2015-02-07 to 2018-01-01
+Is a leading institute in east and business, we train students, develop corporate systems, networking and manage some?
+• Created rack middleware for communicating with updates to employees' needs
+• Sass, angular jaws, agent, fabric, postgres
+2014-09-01 to 2015-01-01
+I worked on the information architecture and helped build their own iOS app for our clients. We are also doing the web application rest API in 6 and.
+• Coordinate with client and other stakeholder in some projects to the key goals which were delivered in coding, new feature, development and production support.
+• Administration of all the student groups of a hybrid bonus wallet and service based on configurable fronted components with web, database, and twilio,.

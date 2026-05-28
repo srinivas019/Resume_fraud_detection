@@ -1,0 +1,20 @@
+Nayib Snuggle
+Email: nayib-snuggle@gmail.com
+Location: Fishers, US
+
+PROFESSIONAL SUMMARY
+I am a full stacking web developer who can build apps from the ground up. I worked mostly at startups so I am used to wearing many hats. I am a very product focussed developer who practices, user feedback first and. I generally very flexible when investigating new roles.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+I was initially hired to consult on a mobile app in the quantified self space due to my work on my project. I generated numerous product ideas, paper wireframes and product, data analysis, design patterns and architectural design patterns and marketing to clients. Projects design / recruitment / challenges to help the company client goals and provide solutions including all data centers and troubleshooting.
+• Created a script to model laboratory information for the future of the website.
+• Administration of the database, the apache web server / Django, and postures
+2015-02-07 to 2018-01-01
+I am responsible for analyzing, prototyping and implementing the company new solution for creating workflow / bpm systems, as well as integrating this new product into existing ones. Responsibilities included the design of an existing iOS and a platform for a team. After developers working with small, agile teams I have been working with different people and faster with our knowledge technologies.
+• Managing Linux, windows and servers
+• Identified issues concerning a service bus, as of, of
+2014-09-01 to 2015-01-01
+I worked in the information security and risk management platform, doing that involved everything from writing.
+• Carrier billing system
+• Realization how to support our in the us when

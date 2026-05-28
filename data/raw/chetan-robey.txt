@@ -1,0 +1,20 @@
+Chetan Robey
+Email: chetan-robey@gmail.com
+Location: Limerick, US
+
+PROFESSIONAL SUMMARY
+I a software engineer with a deep passion for free software and free culture. I experience organizing events of varying scale on foss technology and. I have helped develop dozens of local groups, particularly in engineering colleges in Hyderabad and Bangalore around free software and love the catalyzing effect it has on the foss community in general.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+Worked on a project to create ads inside mobile games. This project developed with a website, with a focus on with operations, as well as the tools for monitoring user to a SaaS application.
+• Development of an entirely new website
+• Present and infrastructure code for maintenance and system updates
+2015-02-07 to 2018-01-01
+Is a digital marketing agency delivering growth and through SEO, paid media, media, content marketing, analytics and service providers?
+• Built a scalable GIs developer that had spanned state's turnaround).
+• • Built vba scripts to in using play framework restful
+2014-09-01 to 2015-01-01
+fortisalberta is a company whose focus is on delivering top notch web and mobile applications to our clients
+• Debug failures and live targets
+• Secure health and monitoring management

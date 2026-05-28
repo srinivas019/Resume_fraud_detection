@@ -1,0 +1,20 @@
+Greta Griffeth
+Email: greta-griffeth@gmail.com
+Location: Los Angeles, US
+
+PROFESSIONAL SUMMARY
+I am a full stack developer who enjoys working in an agile environment with a collaborative team. I am passionate about creating modular, scalable, smart looking web apps. I enjoy balancing the need for test driven and benchmark driven development, modern creative design, and task completion efficiency and quality.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+Is a consulting company, mostly industrial technologies and consulting services, working with CSS development and data analysis to small medium projects in their projects.
+• Worked extensively with objective c frameworks
+• Admin product manager and management
+2015-02-07 to 2018-01-01
+As a senior consultant, I help solve client issues by gaining insight of their business and goals of life internal equipment and facilities.
+• Developing, testing and implementing software for the system, and validation, formatting the layout, and.
+• Certification of chef
+2014-09-01 to 2015-01-01
+netjets inc is a company whose focus is on delivering top notch web and mobile applications to our clients
+• Application development and deployment of some soap solutions used for web (PHP).
+• Analyzed possibility to implement better better performance by using language and activity.

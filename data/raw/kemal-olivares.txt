@@ -1,0 +1,20 @@
+Kemal Olivares
+Email: kemal-olivares@gmail.com
+Location: Aalborg Øst, US
+
+PROFESSIONAL SUMMARY
+I a software engineer with a mathematics and physics background and a passion for learning. Problem solver and technology enthusiast, always looking for ways to improve my craft whilst enjoying the chance to work with talented and creative people.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+boeing,, nm is a company whose focus is on delivering top notch web and mobile applications to our clients.
+• Create functional and user strategy to test and deploy.
+• Reviewed vulnerability reports and data collection
+2015-02-07 to 2018-01-01
+Is a company that produce and deliver multimedia and digital content across different clients, focusing on providing b2b training and administrative development in the areas of information and communication.
+• Creating significant within an unreal engine
+• Was delivered on a tech week plan to execute and automate a Microsoft windows phone library.
+2014-09-01 to 2015-01-01
+Is a company that produce and deliver multimedia and digital content across different clients, focusing on the medical industry
+• Building electricity operations
+• Developed and launched CRM for clients using rails on java, hibernate and stored procedures in xml.

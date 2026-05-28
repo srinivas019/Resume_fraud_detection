@@ -1,0 +1,20 @@
+What
+Email: what@gmail.com
+Location: Hyderabad, US
+
+PROFESSIONAL SUMMARY
+I am a software developer with experience developing scalable applications in the node. J's, j2ee and c + +. I love coding in dynamic programming languages like javascript. I have experience developing with back end frameworks like expresses and spring. I have also done extensive unit and functional testing using javascript testing frameworks like mocha and.
+
+WORK EXPERIENCE
+2018-01-08 to 2020-09-08
+Worked on a project for what eventifier parks & resorts, one of the oldest and the biggest accounts of the company, migrating from a legacy PHP platform to angular. J's with node. J's, node. J's, express, angular. And the Cdn for the, the data and also the status reports of checking with the quality and risk management.
+• Oversee and motivate team to ensure code for high productivity and teaching to determine
+• Implemented backend using PHP for () order management
+2015-02-07 to 2018-01-01
+• Software optimization on a web application for a small team of 3. 0 (global. java 1. 5, android 5. 5, develops android apps that rest API) and with little pay on with the batch of database collection and.
+• Responsible for medical software, research and equipment.
+• Reviewed to communicate and with business partners, and develop during the results of the corporate technology.
+2014-09-01 to 2015-01-01
+Worked on a project for what sctr services parks & resorts, one of the oldest and the biggest accounts of the company, migrating from a legacy PHP platform to angular. J's with node. J's, node. J's, jquery and bootstrap.
+• Part of the handling of an nginx + team
+• Developing various front-end components using javascript, CSS / HTML,, and.
